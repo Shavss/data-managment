@@ -1,0 +1,8 @@
+numpy==1.26.3
+pandas==2.2.0
+PyMuPDF==1.23.16
+PyPDF2==3.0.1
+BeautifulSoup==4.12.3 
+Selenium==2.2.1
+openpyxl==3.1.2
+requests==2.31.0

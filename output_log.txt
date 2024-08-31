@@ -1,0 +1,3235 @@
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_207_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_207_A.pdf    1  436          5232.00    4646.02   
+1     None  UWL_5_TWP_B_E0_D_207_A.pdf    2  228          2508.00    2227.10   
+2     None  UWL_5_TWP_B_E0_D_207_A.pdf    3   63           504.00     447.55   
+3     None  UWL_5_TWP_B_E0_D_207_A.pdf    4   18           151.20     134.27   
+4     None  UWL_5_TWP_B_E0_D_207_A.pdf    5   19           178.60     158.60   
+5     None  UWL_5_TWP_B_E0_D_207_A.pdf    6   69           731.40     649.48   
+6     None  UWL_5_TWP_B_E0_D_207_A.pdf    7   41           129.15     114.69   
+7     None  UWL_5_TWP_B_E0_D_207_A.pdf    8   19           203.30     180.53   
+8     None  UWL_5_TWP_B_E0_D_207_A.pdf    9   18           174.60     155.04   
+9     None  UWL_5_TWP_B_E0_D_207_A.pdf   10   38           220.40     195.72   
+10    None  UWL_5_TWP_B_E0_D_207_A.pdf   11   36           244.80     217.38   
+11    None  UWL_5_TWP_B_E0_D_207_A.pdf   12    2             4.00       3.55   
+12    None  UWL_5_TWP_B_E0_D_207_A.pdf   13   25            75.00      66.60   
+13    None  UWL_5_TWP_B_E0_D_207_A.pdf   14   17            78.20      69.44   
+14    None  UWL_5_TWP_B_E0_D_207_A.pdf   15   21            80.85      71.79   
+15    None  UWL_5_TWP_B_E0_D_207_A.pdf   16   50           415.00     368.52   
+16    None  UWL_5_TWP_B_E0_D_207_A.pdf   17   48           350.40     311.16   
+17    None  UWL_5_TWP_B_E0_D_207_A.pdf   18    6            19.20      17.05   
+18    None  UWL_5_TWP_B_E0_D_207_A.pdf   19   24            67.20      59.67   
+19    None  UWL_5_TWP_B_E0_D_207_A.pdf   20   27            72.90      64.74   
+20    None  UWL_5_TWP_B_E0_D_207_A.pdf   21   12            64.80      57.54   
+21    None  UWL_5_TWP_B_E0_D_207_A.pdf   22   12            60.00      53.28   
+22    None  UWL_5_TWP_B_E0_D_207_A.pdf   23   12            55.20      49.02   
+23    None  UWL_5_TWP_B_E0_D_207_A.pdf   24   21            94.50      83.92   
+24    None  UWL_5_TWP_B_E0_D_207_A.pdf   25   63           157.50     139.86   
+25    None  UWL_5_TWP_B_E0_D_207_A.pdf   26   30           132.00     117.22   
+26    None  UWL_5_TWP_B_E0_D_207_A.pdf   27   28           221.20     196.43   
+27    None  UWL_5_TWP_B_E0_D_207_A.pdf   28  221          2408.90    2139.10   
+28    None  UWL_5_TWP_B_E0_D_207_A.pdf   29   17           144.50     128.32   
+29    None  UWL_5_TWP_B_E0_D_207_A.pdf   30   14           105.00      93.24   
+30    None  UWL_5_TWP_B_E0_D_207_A.pdf   31   20           211.00     187.37   
+31    None  UWL_5_TWP_B_E0_D_207_A.pdf   32    9            46.80      41.56   
+32    None  UWL_5_TWP_B_E0_D_207_A.pdf   33    3            28.50      25.31   
+33    None  UWL_5_TWP_B_E0_D_207_A.pdf   34    8            28.00      24.86   
+34    None  UWL_5_TWP_B_E0_D_207_A.pdf   35    8            42.40      37.65   
+35    None  UWL_5_TWP_B_E0_D_207_A.pdf   36  212          2289.60    2033.16   
+36    None  UWL_5_TWP_B_E0_D_207_A.pdf   37   57           319.20     283.45   
+37    None  UWL_5_TWP_B_E0_D_207_A.pdf   38   58           382.80     339.93   
+38    None  UWL_5_TWP_B_E0_D_207_A.pdf   39   12            31.20      27.71   
+39    None  UWL_5_TWP_B_E0_D_207_A.pdf   40   12            56.40      50.08   
+40    None  UWL_5_TWP_B_E0_D_207_A.pdf   41   12            50.40      44.76   
+41    None  UWL_5_TWP_B_E0_D_207_A.pdf   42   12            46.80      41.56   
+42    None  UWL_5_TWP_B_E0_D_207_A.pdf   43   12            45.60      40.49   
+43    None  UWL_5_TWP_B_E0_D_207_A.pdf   44   30           109.50      97.24   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1             11.00            12  
+2              8.00            12  
+3              8.40            12  
+4              9.40            12  
+5             10.60            12  
+6              3.15            12  
+7             10.70            12  
+8              9.70            12  
+9              5.80            12  
+10             6.80            12  
+11             2.00            12  
+12             3.00            12  
+13             4.60            12  
+14             3.85            12  
+15             8.30            12  
+16             7.30            12  
+17             3.20            12  
+18             2.80            12  
+19             2.70            12  
+20             5.40            12  
+21             5.00            12  
+22             4.60            12  
+23             4.50            12  
+24             2.50            12  
+25             4.40            12  
+26             7.90            12  
+27            10.90            12  
+28             8.50            12  
+29             7.50            12  
+30            10.55            12  
+31             5.20            12  
+32             9.50            12  
+33             3.50            12  
+34             5.30            12  
+35            10.80            12  
+36             5.60            12  
+37             6.60            12  
+38             2.60            12  
+39             4.70            12  
+40             4.20            12  
+41             3.90            12  
+42             3.80            12  
+43             3.65    1212001100  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: -328.57%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_208_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_208_A.pdf  161    16           192.00     739.20   
+1     None  UWL_5_TWP_B_E0_D_208_A.pdf  102  1095          1861.50    1653.01   
+2     None  UWL_5_TWP_B_E0_D_208_A.pdf  103    84           134.40      53.09   
+3     None  UWL_5_TWP_B_E0_D_208_A.pdf  104     1             1.02       0.91   
+4     None  UWL_5_TWP_B_E0_D_208_A.pdf  105     1             2.10       1.86   
+5     None  UWL_5_TWP_B_E0_D_208_A.pdf  106   214           496.48     440.87   
+6     None  UWL_5_TWP_B_E0_D_208_A.pdf  107   710          1384.50    1229.44   
+7     None  UWL_5_TWP_B_E0_D_208_A.pdf  108   736          1427.84    1267.92   
+8     None  UWL_5_TWP_B_E0_D_208_A.pdf  109   208           470.08     417.43   
+9     None  UWL_5_TWP_B_E0_D_208_A.pdf  110    34            90.44      80.31   
+10    None  UWL_5_TWP_B_E0_D_208_A.pdf  111   364          2184.00     862.68   
+11    None  UWL_5_TWP_B_E0_D_208_A.pdf  112    36           180.00      71.10   
+12    None  UWL_5_TWP_B_E0_D_208_A.pdf  113    64           128.00     113.66   
+13    None  UWL_5_TWP_B_E0_D_208_A.pdf  114    44            44.00      27.15   
+14    None  UWL_5_TWP_B_E0_D_208_A.pdf  115    34            57.80      91.32   
+15    None  UWL_5_TWP_B_E0_D_208_A.pdf  116   126           308.70     190.47   
+16    None  UWL_5_TWP_B_E0_D_208_A.pdf  117    14            18.20      11.23   
+17    None  UWL_5_TWP_B_E0_D_208_A.pdf  118   122           372.10     229.59   
+18    None  UWL_5_TWP_B_E0_D_208_A.pdf  119    48            14.40      35.57   
+19    None  UWL_5_TWP_B_E0_D_208_A.pdf  120    76           912.00    1440.96   
+20    None  UWL_5_TWP_B_E0_D_208_A.pdf  121     8            40.00      63.20   
+21    None  UWL_5_TWP_B_E0_D_208_A.pdf  122     8            88.00     139.04   
+22    None  UWL_5_TWP_B_E0_D_208_A.pdf  123    14           112.00     176.96   
+23    None  UWL_5_TWP_B_E0_D_208_A.pdf  124     4            24.00      37.92   
+24    None  UWL_5_TWP_B_E0_D_208_A.pdf  125    17            93.50     147.73   
+25    None  UWL_5_TWP_B_E0_D_208_A.pdf  126    36           108.00     170.64   
+26    None  UWL_5_TWP_B_E0_D_208_A.pdf  127     8            44.80      70.78   
+27    None  UWL_5_TWP_B_E0_D_208_A.pdf  128    12           120.00     189.60   
+28    None  UWL_5_TWP_B_E0_D_208_A.pdf  129     8            72.00     113.76   
+29    None  UWL_5_TWP_B_E0_D_208_A.pdf  130     8            86.40     136.51   
+30    None  UWL_5_TWP_B_E0_D_208_A.pdf  131     8            56.00      88.48   
+31    None  UWL_5_TWP_B_E0_D_208_A.pdf  132     4            34.80      54.98   
+32    None  UWL_5_TWP_B_E0_D_208_A.pdf  133     2            10.80      17.06   
+33    None  UWL_5_TWP_B_E0_D_208_A.pdf  134     2            11.80      18.64   
+34    None  UWL_5_TWP_B_E0_D_208_A.pdf  135     6            18.00      28.44   
+35    None  UWL_5_TWP_B_E0_D_208_A.pdf  136    72           252.00     398.16   
+36    None  UWL_5_TWP_B_E0_D_208_A.pdf  137    84           168.00     265.44   
+37    None  UWL_5_TWP_B_E0_D_208_A.pdf  138    72           180.00     284.40   
+38    None  UWL_5_TWP_B_E0_D_208_A.pdf  139     6            37.80      59.72   
+39    None  UWL_5_TWP_B_E0_D_208_A.pdf  140     8            63.20      99.86   
+40    None  UWL_5_TWP_B_E0_D_208_A.pdf  141     4            11.60      18.33   
+41    None  UWL_5_TWP_B_E0_D_208_A.pdf  142     1             4.30       6.79   
+42    None  UWL_5_TWP_B_E0_D_208_A.pdf  143     4            40.00      98.80   
+43    None  UWL_5_TWP_B_E0_D_208_A.pdf  144     4            22.00      54.34   
+44    None  UWL_5_TWP_B_E0_D_208_A.pdf  145     4            18.40      45.45   
+45    None  UWL_5_TWP_B_E0_D_208_A.pdf  146     4            16.00      25.28   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            25  
+1              1.70            12  
+2              1.60             8  
+3              1.02            12  
+4              2.10            12  
+5              2.32            12  
+6              1.95            12  
+7              1.94            12  
+8              2.26            12  
+9              2.66            12  
+10             6.00             8  
+11             5.00             8  
+12             2.00            12  
+13             1.00            10  
+14             1.70            16  
+15             2.45            10  
+16             1.30            10  
+17             3.05            10  
+18             0.30            20  
+19            12.00            16  
+20             5.00            16  
+21            11.00            16  
+22             8.00            16  
+23             6.00            16  
+24             5.50            16  
+25             3.00            16  
+26             5.60            16  
+27            10.00            16  
+28             9.00            16  
+29            10.80            16  
+30             7.00            16  
+31             8.70            16  
+32             5.40            16  
+33             5.90            16  
+34             3.00            16  
+35             3.50            16  
+36             2.00            16  
+37             2.50            16  
+38             6.30            16  
+39             7.90            16  
+40             2.90            16  
+41             4.30            16  
+42            10.00            20  
+43             5.50            20  
+44             4.60            20  
+45             4.00            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_209_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_209_A.pdf  201   64           416.00     369.41   
+1     None  UWL_5_TWP_B_E0_D_209_A.pdf  202  136          1224.00    1086.91   
+2     None  UWL_5_TWP_B_E0_D_209_A.pdf  203  158          1580.00    1403.04   
+3     None  UWL_5_TWP_B_E0_D_209_A.pdf  204  258          3096.00    2749.25   
+4     None  UWL_5_TWP_B_E0_D_209_A.pdf  205   66           462.00     410.26   
+..     ...                         ...  ...  ...              ...        ...   
+73    None  UWL_5_TWP_B_E0_D_209_A.pdf  274    4            12.40      19.59   
+74    None  UWL_5_TWP_B_E0_D_209_A.pdf  275   27           132.30      81.63   
+75    None  UWL_5_TWP_B_E0_D_209_A.pdf  276    8            24.00      59.28   
+76    None  UWL_5_TWP_B_E0_D_209_A.pdf  277    2             7.50      11.85   
+77    None  UWL_5_TWP_B_E0_D_209_A.pdf  278    2             6.70      10.59   
+
+   Einzel Lange [m] Diameter [mm]  
+0              6.50            12  
+1              9.00            12  
+2             10.00            12  
+3             12.00            12  
+4              7.00            12  
+..              ...           ...  
+73             3.10            16  
+74             4.90            10  
+75             3.00            20  
+76             3.75            16  
+77             3.35      16650900  
+
+[78 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+No matches found in the PDF file.
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_210_A.pdf:
+Empty DataFrame
+Columns: [Pos., Stck, Gesamt Lange [m], Masse [kg], Einzel Lange [m], Diameter [mm]]
+Index: []
+No data found in UWL_5_TWP_B_E0_D_210_A.pdf, skipping.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_211_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_211_A.pdf    1  380          4560.00    4049.28   
+1     None  UWL_5_TWP_B_E0_D_211_A.pdf    2  232          1392.00    1236.10   
+2     None  UWL_5_TWP_B_E0_D_211_A.pdf    3  135          1485.00    1318.68   
+3     None  UWL_5_TWP_B_E0_D_211_A.pdf    4   51           377.40     335.13   
+4     None  UWL_5_TWP_B_E0_D_211_A.pdf    5   51           428.40     380.42   
+5     None  UWL_5_TWP_B_E0_D_211_A.pdf    6   56           464.80     412.74   
+6     None  UWL_5_TWP_B_E0_D_211_A.pdf    7   56           408.80     363.01   
+7     None  UWL_5_TWP_B_E0_D_211_A.pdf    8   25           230.00     204.24   
+8     None  UWL_5_TWP_B_E0_D_211_A.pdf    9   24           244.80     217.38   
+9     None  UWL_5_TWP_B_E0_D_211_A.pdf   10    7            30.80      27.35   
+10    None  UWL_5_TWP_B_E0_D_211_A.pdf   11    8            43.20      38.36   
+11    None  UWL_5_TWP_B_E0_D_211_A.pdf   12   54           421.20     374.03   
+12    None  UWL_5_TWP_B_E0_D_211_A.pdf   13   16           108.80      96.61   
+13    None  UWL_5_TWP_B_E0_D_211_A.pdf   14  107           845.30     750.63   
+14    None  UWL_5_TWP_B_E0_D_211_A.pdf   15   53           450.50     400.04   
+15    None  UWL_5_TWP_B_E0_D_211_A.pdf   16   54           405.00     359.64   
+16    None  UWL_5_TWP_B_E0_D_211_A.pdf   17   10            72.00      63.94   
+17    None  UWL_5_TWP_B_E0_D_211_A.pdf   18   11            90.20      80.10   
+18    None  UWL_5_TWP_B_E0_D_211_A.pdf   19   20           105.00      93.24   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              6.00            12  
+2             11.00            12  
+3              7.40            12  
+4              8.40            12  
+5              8.30            12  
+6              7.30            12  
+7              9.20            12  
+8             10.20            12  
+9              4.40            12  
+10             5.40            12  
+11             7.80            12  
+12             6.80            12  
+13             7.90            12  
+14             8.50            12  
+15             7.50            12  
+16             7.20            12  
+17             8.20            12  
+18             5.25        121200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_212_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_212_A.pdf  101  381           666.75     592.07   
+1     None  UWL_5_TWP_B_E0_D_212_A.pdf  102  396           673.20     597.80   
+2     None  UWL_5_TWP_B_E0_D_212_A.pdf  103   46            73.60      29.07   
+3     None  UWL_5_TWP_B_E0_D_212_A.pdf  104    1             2.16       1.92   
+4     None  UWL_5_TWP_B_E0_D_212_A.pdf  105    6             7.44       6.61   
+5     None  UWL_5_TWP_B_E0_D_212_A.pdf  106  141           846.00     334.17   
+6     None  UWL_5_TWP_B_E0_D_212_A.pdf  107   40           200.00      79.00   
+7     None  UWL_5_TWP_B_E0_D_212_A.pdf  108   30            60.00      53.28   
+8     None  UWL_5_TWP_B_E0_D_212_A.pdf  109   88            88.00      54.30   
+9     None  UWL_5_TWP_B_E0_D_212_A.pdf  110   30            51.00      80.58   
+10    None  UWL_5_TWP_B_E0_D_212_A.pdf  111    8            12.00      10.66   
+11    None  UWL_5_TWP_B_E0_D_212_A.pdf  112   32           384.00     606.72   
+12    None  UWL_5_TWP_B_E0_D_212_A.pdf  113    4            20.00      31.60   
+13    None  UWL_5_TWP_B_E0_D_212_A.pdf  114    8            64.00     101.12   
+14    None  UWL_5_TWP_B_E0_D_212_A.pdf  115   24            72.00     113.76   
+15    None  UWL_5_TWP_B_E0_D_212_A.pdf  116   12           108.00     170.64   
+16    None  UWL_5_TWP_B_E0_D_212_A.pdf  117   16            40.00      63.20   
+17    None  UWL_5_TWP_B_E0_D_212_A.pdf  118    8            56.00      88.48   
+18    None  UWL_5_TWP_B_E0_D_212_A.pdf  119    8            48.00      75.84   
+19    None  UWL_5_TWP_B_E0_D_212_A.pdf  120    4            32.40      51.19   
+20    None  UWL_5_TWP_B_E0_D_212_A.pdf  121    8            32.00      50.56   
+21    None  UWL_5_TWP_B_E0_D_212_A.pdf  122    4            29.60      46.77   
+22    None  UWL_5_TWP_B_E0_D_212_A.pdf  123    4            22.00      34.76   
+23    None  UWL_5_TWP_B_E0_D_212_A.pdf  124    4            40.00      63.20   
+24    None  UWL_5_TWP_B_E0_D_212_A.pdf  125    4            20.40      32.23   
+25    None  UWL_5_TWP_B_E0_D_212_A.pdf  126    4            37.60      59.41   
+26    None  UWL_5_TWP_B_E0_D_212_A.pdf  127    8            24.00      37.92   
+
+   Einzel Lange [m] Diameter [mm]  
+0              1.75            12  
+1              1.70            12  
+2              1.60             8  
+3              2.16            12  
+4              1.24            12  
+5              6.00             8  
+6              5.00             8  
+7              2.00            12  
+8              1.00            10  
+9              1.70            16  
+10             1.50            12  
+11            12.00            16  
+12             5.00            16  
+13             8.00            16  
+14             3.00            16  
+15             9.00            16  
+16             2.50            16  
+17             7.00            16  
+18             6.00            16  
+19             8.10            16  
+20             4.00            16  
+21             7.40            16  
+22             5.50            16  
+23            10.00            16  
+24             5.10            16  
+25             9.40            16  
+26             3.00        167525  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_213_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_D_213_A.pdf  201  359          4308.00    3825.50   
+1     None  UWL_5_TWP_B_E0_D_213_A.pdf  202    9            89.10      79.12   
+2     None  UWL_5_TWP_B_E0_D_213_A.pdf  203   10           109.00      96.79   
+3     None  UWL_5_TWP_B_E0_D_213_A.pdf  204   54           194.40     172.63   
+4     None  UWL_5_TWP_B_E0_D_213_A.pdf  205   55           143.00     126.98   
+5     None  UWL_5_TWP_B_E0_D_213_A.pdf  206   54           523.80     465.13   
+6     None  UWL_5_TWP_B_E0_D_213_A.pdf  207   55           588.50     522.59   
+7     None  UWL_5_TWP_B_E0_D_213_A.pdf  208   71           497.00     441.34   
+8     None  UWL_5_TWP_B_E0_D_213_A.pdf  209  116           510.40     453.24   
+9     None  UWL_5_TWP_B_E0_D_213_A.pdf  210   35           119.00     105.67   
+10    None  UWL_5_TWP_B_E0_D_213_A.pdf  211   23           213.90     189.94   
+11    None  UWL_5_TWP_B_E0_D_213_A.pdf  212   17           175.10     155.49   
+12    None  UWL_5_TWP_B_E0_D_213_A.pdf  213   10            62.00      55.06   
+13    None  UWL_5_TWP_B_E0_D_213_A.pdf  214    9            64.80      57.54   
+14    None  UWL_5_TWP_B_E0_D_213_A.pdf  215   38           296.40     263.20   
+15    None  UWL_5_TWP_B_E0_D_213_A.pdf  216   23           190.90     169.52   
+16    None  UWL_5_TWP_B_E0_D_213_A.pdf  217   36           126.00     111.89   
+17    None  UWL_5_TWP_B_E0_D_213_A.pdf  218   32           144.00     127.87   
+18    None  UWL_5_TWP_B_E0_D_213_A.pdf  219  210          1890.00    1678.32   
+19    None  UWL_5_TWP_B_E0_D_213_A.pdf  220   25           137.50     122.10   
+20    None  UWL_5_TWP_B_E0_D_213_A.pdf  221   80           432.00     383.62   
+21    None  UWL_5_TWP_B_E0_D_213_A.pdf  222   15           109.50      97.24   
+22    None  UWL_5_TWP_B_E0_D_213_A.pdf  223   11            58.30      51.77   
+23    None  UWL_5_TWP_B_E0_D_213_A.pdf  224   10            63.00      55.94   
+24    None  UWL_5_TWP_B_E0_D_213_A.pdf  225   21           110.25      97.90   
+25    None  UWL_5_TWP_B_E0_D_213_A.pdf  226   29            72.50      64.38   
+26    None  UWL_5_TWP_B_E0_D_213_A.pdf  227   58           638.00     566.54   
+27    None  UWL_5_TWP_B_E0_D_213_A.pdf  228   42           197.40     487.58   
+28    None  UWL_5_TWP_B_E0_D_213_A.pdf  229   56           246.40     389.31   
+29    None  UWL_5_TWP_B_E0_D_213_A.pdf  230   23           110.40     174.43   
+30    None  UWL_5_TWP_B_E0_D_213_A.pdf  231   23           117.30     289.73   
+31    None  UWL_5_TWP_B_E0_D_213_A.pdf  232  115           402.50     248.34   
+32    None  UWL_5_TWP_B_E0_D_213_A.pdf  233   18            70.20     110.92   
+33    None  UWL_5_TWP_B_E0_D_213_A.pdf  234   18            70.20     173.39   
+34    None  UWL_5_TWP_B_E0_D_213_A.pdf  235   40            96.00      85.25   
+35    None  UWL_5_TWP_B_E0_D_213_A.pdf  236    3             8.10       5.00   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              9.90            12  
+2             10.90            12  
+3              3.60            12  
+4              2.60            12  
+5              9.70            12  
+6             10.70            12  
+7              7.00            12  
+8              4.40            12  
+9              3.40            12  
+10             9.30            12  
+11            10.30            12  
+12             6.20            12  
+13             7.20            12  
+14             7.80            12  
+15             8.30            12  
+16             3.50            12  
+17             4.50            12  
+18             9.00            12  
+19             5.50            12  
+20             5.40            12  
+21             7.30            12  
+22             5.30            12  
+23             6.30            12  
+24             5.25            12  
+25             2.50            12  
+26            11.00            12  
+27             4.70            20  
+28             4.40            16  
+29             4.80            16  
+30             5.10            20  
+31             3.50            10  
+32             3.90            16  
+33             3.90            20  
+34             2.40            12  
+35             2.70        101200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_D_214_A.pdf:
+  plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_E0_D_214_A.pdf    1   54           226.80     139.94   
+1    None  UWL_5_TWP_B_E0_D_214_A.pdf    2   27            79.65      49.14   
+2    None  UWL_5_TWP_B_E0_D_214_A.pdf    3   68           218.28     134.68   
+3    None  UWL_5_TWP_B_E0_D_214_A.pdf    4  130           195.00      77.03   
+4    None  UWL_5_TWP_B_E0_D_214_A.pdf    5    2             4.28       2.64   
+5    None  UWL_5_TWP_B_E0_D_214_A.pdf    6   12            42.12      25.99   
+6    None  UWL_5_TWP_B_E0_D_214_A.pdf    7    1             1.06       0.65   
+7    None  UWL_5_TWP_B_E0_D_214_A.pdf    8   16            67.20      59.67   
+8    None  UWL_5_TWP_B_E0_D_214_A.pdf    9    8            23.60      20.96   
+9    None  UWL_5_TWP_B_E0_D_214_A.pdf   10   42            36.12      32.07   
+
+  Einzel Lange [m] Diameter [mm]  
+0             4.20            10  
+1             2.95            10  
+2             3.21            10  
+3             1.50             8  
+4             2.14            10  
+5             3.51            10  
+6             1.06            10  
+7             4.20            12  
+8             2.95            12  
+9             0.86      12420295  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 83.33%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_S_201_A.pdf:
+  plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_E0_S_201_A.pdf    1   56           302.40    1164.24   
+1    None  UWL_5_TWP_B_E0_S_201_A.pdf    2   24            94.80     149.78   
+2    None  UWL_5_TWP_B_E0_S_201_A.pdf    3    6            25.20      22.38   
+3    None  UWL_5_TWP_B_E0_S_201_A.pdf    4    6            32.40     124.74   
+4    None  UWL_5_TWP_B_E0_S_201_A.pdf    5    8            46.40     114.61   
+5    None  UWL_5_TWP_B_E0_S_201_A.pdf    6   16            86.40     213.41   
+6    None  UWL_5_TWP_B_E0_S_201_A.pdf    7  140           221.20      87.37   
+7    None  UWL_5_TWP_B_E0_S_201_A.pdf    8  218           327.00     129.17   
+8    None  UWL_5_TWP_B_E0_S_201_A.pdf   11   46            72.68      28.71   
+9    None  UWL_5_TWP_B_E0_S_201_A.pdf   12   36            33.84      13.37   
+
+  Einzel Lange [m] Diameter [mm]  
+0             5.40            25  
+1             3.95            16  
+2             4.20            12  
+3             5.40            25  
+4             5.80            20  
+5             5.40            20  
+6             1.58             8  
+7             1.50             8  
+8             1.58             8  
+9             0.94          8400  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 96.36%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_W_202_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_W_202_A.pdf    1  320           128.00      50.56   
+1     None  UWL_5_TWP_B_E0_W_202_A.pdf    2   25            11.25       4.44   
+2     None  UWL_5_TWP_B_E0_W_202_A.pdf    3  630           315.00     124.43   
+3     None  UWL_5_TWP_B_E0_W_202_A.pdf    4  755          3624.00    3218.11   
+4     None  UWL_5_TWP_B_E0_W_202_A.pdf    5  132           620.40     382.79   
+5     None  UWL_5_TWP_B_E0_W_202_A.pdf    6   36           133.20     118.28   
+6     None  UWL_5_TWP_B_E0_W_202_A.pdf    7   31           119.35     105.98   
+7     None  UWL_5_TWP_B_E0_W_202_A.pdf    8   28            70.00      62.16   
+8     None  UWL_5_TWP_B_E0_W_202_A.pdf    9    8            38.40      34.10   
+9     None  UWL_5_TWP_B_E0_W_202_A.pdf   10   16            39.20      34.81   
+10    None  UWL_5_TWP_B_E0_W_202_A.pdf   11   16            39.20      34.81   
+11    None  UWL_5_TWP_B_E0_W_202_A.pdf   12   17            25.50      22.64   
+12    None  UWL_5_TWP_B_E0_W_202_A.pdf   13  150          1800.00    1110.60   
+13    None  UWL_5_TWP_B_E0_W_202_A.pdf   14  124          1153.20     711.52   
+14    None  UWL_5_TWP_B_E0_W_202_A.pdf   15   26           117.00      72.19   
+15    None  UWL_5_TWP_B_E0_W_202_A.pdf   16   36            86.40      53.31   
+16    None  UWL_5_TWP_B_E0_W_202_A.pdf   17   36           198.00     122.17   
+17    None  UWL_5_TWP_B_E0_W_202_A.pdf   18   62           142.60      87.98   
+18    None  UWL_5_TWP_B_E0_W_202_A.pdf   19   62           173.60     107.11   
+19    None  UWL_5_TWP_B_E0_W_202_A.pdf   20   62           220.10     135.80   
+20    None  UWL_5_TWP_B_E0_W_202_A.pdf   21   26            78.00      48.13   
+21    None  UWL_5_TWP_B_E0_W_202_A.pdf   22  128           256.00     157.95   
+22    None  UWL_5_TWP_B_E0_W_202_A.pdf   23   18            27.90      24.78   
+23    None  UWL_5_TWP_B_E0_W_202_A.pdf   24   74           133.20      52.61   
+24    None  UWL_5_TWP_B_E0_W_202_A.pdf   25  264           501.60     309.49   
+25    None  UWL_5_TWP_B_E0_W_202_A.pdf   26   23            49.45      43.91   
+26    None  UWL_5_TWP_B_E0_W_202_A.pdf   27   68            88.40      54.54   
+27    None  UWL_5_TWP_B_E0_W_202_A.pdf   28   27            55.35      34.15   
+28    None  UWL_5_TWP_B_E0_W_202_A.pdf   29   27            90.45      55.81   
+29    None  UWL_5_TWP_B_E0_W_202_A.pdf   30   21            28.35      25.17   
+30    None  UWL_5_TWP_B_E0_W_202_A.pdf   31   18            27.00      16.66   
+31    None  UWL_5_TWP_B_E0_W_202_A.pdf   32    6            12.90      11.46   
+32    None  UWL_5_TWP_B_E0_W_202_A.pdf   33    6            15.30      13.59   
+33    None  UWL_5_TWP_B_E0_W_202_A.pdf   34   14            34.30      30.46   
+34    None  UWL_5_TWP_B_E0_W_202_A.pdf   35    3             3.18       1.96   
+35    None  UWL_5_TWP_B_E0_W_202_A.pdf   36   18            41.40      25.54   
+36    None  UWL_5_TWP_B_E0_W_202_A.pdf   37   43            83.85      51.74   
+37    None  UWL_5_TWP_B_E0_W_202_A.pdf   38   19            24.70      15.24   
+38    None  UWL_5_TWP_B_E0_W_202_A.pdf   39   18            23.40      14.44   
+39    None  UWL_5_TWP_B_E0_W_202_A.pdf   40   18            24.30      14.99   
+40    None  UWL_5_TWP_B_E0_W_202_A.pdf   41   19            40.85      25.20   
+41    None  UWL_5_TWP_B_E0_W_202_A.pdf   42   16            22.40      13.82   
+42    None  UWL_5_TWP_B_E0_W_202_A.pdf   43   14            18.20      11.23   
+43    None  UWL_5_TWP_B_E0_W_202_A.pdf   44    3             2.16       0.85   
+44    None  UWL_5_TWP_B_E0_W_202_A.pdf   45    2             3.20       1.97   
+45    None  UWL_5_TWP_B_E0_W_202_A.pdf   46   46           243.80     385.20   
+46    None  UWL_5_TWP_B_E0_W_202_A.pdf   47   18            54.00      85.32   
+47    None  UWL_5_TWP_B_E0_W_202_A.pdf   48   12            68.40     263.34   
+48    None  UWL_5_TWP_B_E0_W_202_A.pdf   49    4             6.00       9.48   
+49    None  UWL_5_TWP_B_E0_W_202_A.pdf   50    2             8.00      12.64   
+50    None  UWL_5_TWP_B_E0_W_202_A.pdf   51   18            45.00      71.10   
+51    None  UWL_5_TWP_B_E0_W_202_A.pdf   54    8            30.40      48.03   
+52    None  UWL_5_TWP_B_E0_W_202_A.pdf   55    4            14.00      22.12   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.45             8  
+2              0.50             8  
+3              4.80            12  
+4              4.70            10  
+5              3.70            12  
+6              3.85            12  
+7              2.50            12  
+8              4.80            12  
+9              2.45            12  
+10             2.45            12  
+11             1.50            12  
+12            12.00            10  
+13             9.30            10  
+14             4.50            10  
+15             2.40            10  
+16             5.50            10  
+17             2.30            10  
+18             2.80            10  
+19             3.55            10  
+20             3.00            10  
+21             2.00            10  
+22             1.55            12  
+23             1.80             8  
+24             1.90            10  
+25             2.15            12  
+26             1.30            10  
+27             2.05            10  
+28             3.35            10  
+29             1.35            12  
+30             1.50            10  
+31             2.15            12  
+32             2.55            12  
+33             2.45            12  
+34             1.06            10  
+35             2.30            10  
+36             1.95            10  
+37             1.30            10  
+38             1.30            10  
+39             1.35            10  
+40             2.15            10  
+41             1.40            10  
+42             1.30            10  
+43             0.72             8  
+44             1.60            10  
+45             5.30            16  
+46             3.00            16  
+47             5.70            25  
+48             1.50            16  
+49             4.00            16  
+50             2.50            16  
+51             3.80            16  
+52             3.50            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_W_203_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_W_203_A.pdf    1  740           296.00     116.92   
+1     None  UWL_5_TWP_B_E0_W_203_A.pdf    2   20             6.80       2.69   
+2     None  UWL_5_TWP_B_E0_W_203_A.pdf    3  602          2889.60    1782.88   
+3     None  UWL_5_TWP_B_E0_W_203_A.pdf    4   24            91.20      56.27   
+4     None  UWL_5_TWP_B_E0_W_203_A.pdf    5   54           126.90      78.30   
+5     None  UWL_5_TWP_B_E0_W_203_A.pdf    6   54           183.60     113.28   
+6     None  UWL_5_TWP_B_E0_W_203_A.pdf    7   18            58.50      36.09   
+7     None  UWL_5_TWP_B_E0_W_203_A.pdf    8   22            82.50      50.90   
+8     None  UWL_5_TWP_B_E0_W_203_A.pdf    9   20            50.00      30.85   
+9     None  UWL_5_TWP_B_E0_W_203_A.pdf   10   22            88.00      54.30   
+10    None  UWL_5_TWP_B_E0_W_203_A.pdf   11   60           720.00     444.24   
+11    None  UWL_5_TWP_B_E0_W_203_A.pdf   12  128           953.60     588.37   
+12    None  UWL_5_TWP_B_E0_W_203_A.pdf   13   26           110.50      68.18   
+13    None  UWL_5_TWP_B_E0_W_203_A.pdf   14   20           212.00     130.80   
+14    None  UWL_5_TWP_B_E0_W_203_A.pdf   15   20           162.00      99.95   
+15    None  UWL_5_TWP_B_E0_W_203_A.pdf   16   20            62.00      38.25   
+16    None  UWL_5_TWP_B_E0_W_203_A.pdf   17   60           258.00     159.19   
+17    None  UWL_5_TWP_B_E0_W_203_A.pdf   18   36           192.60     118.83   
+18    None  UWL_5_TWP_B_E0_W_203_A.pdf   19   26            78.00      48.13   
+19    None  UWL_5_TWP_B_E0_W_203_A.pdf   20   52           379.60     234.21   
+20    None  UWL_5_TWP_B_E0_W_203_A.pdf   21  241           457.90     282.52   
+21    None  UWL_5_TWP_B_E0_W_203_A.pdf   22   70            91.00      56.15   
+22    None  UWL_5_TWP_B_E0_W_203_A.pdf   23   26            48.10      29.68   
+23    None  UWL_5_TWP_B_E0_W_203_A.pdf   24   28            91.00      56.15   
+24    None  UWL_5_TWP_B_E0_W_203_A.pdf   25   96           120.00      74.04   
+25    None  UWL_5_TWP_B_E0_W_203_A.pdf   26    2             3.00       1.85   
+26    None  UWL_5_TWP_B_E0_W_203_A.pdf   27   26            28.60      11.30   
+27    None  UWL_5_TWP_B_E0_W_203_A.pdf   28   48            96.00      59.23   
+28    None  UWL_5_TWP_B_E0_W_203_A.pdf   29   34            96.90      59.79   
+29    None  UWL_5_TWP_B_E0_W_203_A.pdf   30   44            85.80      52.94   
+30    None  UWL_5_TWP_B_E0_W_203_A.pdf   31   82           164.00      64.78   
+31    None  UWL_5_TWP_B_E0_W_203_A.pdf   32  104           228.80     141.17   
+32    None  UWL_5_TWP_B_E0_W_203_A.pdf   33   10            22.50      13.88   
+33    None  UWL_5_TWP_B_E0_W_203_A.pdf   34   36            95.40      58.86   
+34    None  UWL_5_TWP_B_E0_W_203_A.pdf   35   17            39.10      15.44   
+35    None  UWL_5_TWP_B_E0_W_203_A.pdf   36   22            23.76      14.66   
+36    None  UWL_5_TWP_B_E0_W_203_A.pdf   37    2             2.20       1.36   
+37    None  UWL_5_TWP_B_E0_W_203_A.pdf   38   60           156.00      96.25   
+38    None  UWL_5_TWP_B_E0_W_203_A.pdf   39    4             8.00       4.94   
+39    None  UWL_5_TWP_B_E0_W_203_A.pdf   40   12            21.00      12.96   
+40    None  UWL_5_TWP_B_E0_W_203_A.pdf   41   10            15.00      23.70   
+41    None  UWL_5_TWP_B_E0_W_203_A.pdf   42   18            45.00      71.10   
+42    None  UWL_5_TWP_B_E0_W_203_A.pdf   43   10            35.00      55.30   
+43    None  UWL_5_TWP_B_E0_W_203_A.pdf   44   72           396.00     625.68   
+44    None  UWL_5_TWP_B_E0_W_203_A.pdf   45   16            51.20      80.90   
+45    None  UWL_5_TWP_B_E0_W_203_A.pdf   46    4             8.80      13.90   
+46    None  UWL_5_TWP_B_E0_W_203_A.pdf   47    4            16.80      20.33   
+47    None  UWL_5_TWP_B_E0_W_203_A.pdf   48    2             9.60      15.17   
+48    None  UWL_5_TWP_B_E0_W_203_A.pdf   49    6            21.60      34.13   
+49    None  UWL_5_TWP_B_E0_W_203_A.pdf   50    8            12.80      20.22   
+50    None  UWL_5_TWP_B_E0_W_203_A.pdf   51    4            18.80      29.70   
+51    None  UWL_5_TWP_B_E0_W_203_A.pdf   52   44            88.00     139.04   
+52    None  UWL_5_TWP_B_E0_W_203_A.pdf   53    2             7.00      11.06   
+53    None  UWL_5_TWP_B_E0_W_203_A.pdf   54    6            18.00      28.44   
+54    None  UWL_5_TWP_B_E0_W_203_A.pdf   55    4            16.80      26.54   
+55    None  UWL_5_TWP_B_E0_W_203_A.pdf   56   24            16.80      14.92   
+56    None  UWL_5_TWP_B_E0_W_203_A.pdf   57    4             2.48       2.20   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.34             8  
+2              4.80            10  
+3              3.80            10  
+4              2.35            10  
+5              3.40            10  
+6              3.25            10  
+7              3.75            10  
+8              2.50            10  
+9              4.00            10  
+10            12.00            10  
+11             7.45            10  
+12             4.25            10  
+13            10.60            10  
+14             8.10            10  
+15             3.10            10  
+16             4.30            10  
+17             5.35            10  
+18             3.00            10  
+19             7.30            10  
+20             1.90            10  
+21             1.30            10  
+22             1.85            10  
+23             3.25            10  
+24             1.25            10  
+25             1.50            10  
+26             1.10             8  
+27             2.00            10  
+28             2.85            10  
+29             1.95            10  
+30             2.00             8  
+31             2.20            10  
+32             2.25            10  
+33             2.65            10  
+34             2.30             8  
+35             1.08            10  
+36             1.10            10  
+37             2.60            10  
+38             2.00            10  
+39             1.75            10  
+40             1.50            16  
+41             2.50            16  
+42             3.50            16  
+43             5.50            16  
+44             3.20            16  
+45             2.20            16  
+46             4.20            14  
+47             4.80            16  
+48             3.60            16  
+49             1.60            16  
+50             4.70            16  
+51             2.00            16  
+52             3.50            16  
+53             3.00            16  
+54             4.20            16  
+55             0.70            12  
+56             0.62            12  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 98.82%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_W_204_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_W_204_A.pdf    1  1330           532.00     210.14   
+1     None  UWL_5_TWP_B_E0_W_204_A.pdf    2    10             5.00       1.98   
+2     None  UWL_5_TWP_B_E0_W_204_A.pdf    3    10             5.50       2.17   
+3     None  UWL_5_TWP_B_E0_W_204_A.pdf    4   710          3408.00    2102.74   
+4     None  UWL_5_TWP_B_E0_W_204_A.pdf    5   108           253.80     156.59   
+..     ...                         ...  ...   ...              ...        ...   
+79    None  UWL_5_TWP_B_E0_W_204_A.pdf   81     2             5.00       7.90   
+80    None  UWL_5_TWP_B_E0_W_204_A.pdf   82     2             5.40       8.53   
+81    None  UWL_5_TWP_B_E0_W_204_A.pdf   83     4             8.40      13.27   
+82    None  UWL_5_TWP_B_E0_W_204_A.pdf   84     2             5.60       8.85   
+83    None  UWL_5_TWP_B_E0_W_204_A.pdf   85     3            10.20      16.12   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.55             8  
+3              4.80            10  
+4              2.35            10  
+..              ...           ...  
+79             2.50            16  
+80             2.70            16  
+81             2.10            16  
+82             2.80            16  
+83             3.40            16  
+
+[84 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_W_205_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_W_205_A.pdf    1  470           188.00      74.26   
+1     None  UWL_5_TWP_B_E0_W_205_A.pdf    2  384          1843.20    1137.25   
+2     None  UWL_5_TWP_B_E0_W_205_A.pdf    3   68           159.80      98.60   
+3     None  UWL_5_TWP_B_E0_W_205_A.pdf    4   48           192.00     118.46   
+4     None  UWL_5_TWP_B_E0_W_205_A.pdf    5  128           953.60     588.37   
+5     None  UWL_5_TWP_B_E0_W_205_A.pdf    6   26           189.80     117.11   
+6     None  UWL_5_TWP_B_E0_W_205_A.pdf    7  102           285.60     176.22   
+7     None  UWL_5_TWP_B_E0_W_205_A.pdf    8   64           393.60     242.85   
+8     None  UWL_5_TWP_B_E0_W_205_A.pdf    9  333           632.70     390.38   
+9     None  UWL_5_TWP_B_E0_W_205_A.pdf   10   51            66.30      40.91   
+10    None  UWL_5_TWP_B_E0_W_205_A.pdf   11   37            68.45      42.23   
+11    None  UWL_5_TWP_B_E0_W_205_A.pdf   12   14            45.50      28.07   
+12    None  UWL_5_TWP_B_E0_W_205_A.pdf   13   21            26.25      16.20   
+13    None  UWL_5_TWP_B_E0_W_205_A.pdf   14   26            28.60      11.30   
+14    None  UWL_5_TWP_B_E0_W_205_A.pdf   15   17            21.42      13.22   
+15    None  UWL_5_TWP_B_E0_W_205_A.pdf   16   13            26.65      16.44   
+16    None  UWL_5_TWP_B_E0_W_205_A.pdf   17   13            43.55      26.87   
+17    None  UWL_5_TWP_B_E0_W_205_A.pdf   18    3             2.16       0.85   
+18    None  UWL_5_TWP_B_E0_W_205_A.pdf   19    2             3.30       2.04   
+19    None  UWL_5_TWP_B_E0_W_205_A.pdf   20    3             3.06       1.21   
+20    None  UWL_5_TWP_B_E0_W_205_A.pdf   21   48           264.00     417.12   
+21    None  UWL_5_TWP_B_E0_W_205_A.pdf   22    8            25.60      40.45   
+22    None  UWL_5_TWP_B_E0_W_205_A.pdf   23    4            16.80      20.33   
+23    None  UWL_5_TWP_B_E0_W_205_A.pdf   24    4            12.00      18.96   
+24    None  UWL_5_TWP_B_E0_W_205_A.pdf   25    2            11.40      18.01   
+25    None  UWL_5_TWP_B_E0_W_205_A.pdf   26    4            11.60      18.33   
+26    None  UWL_5_TWP_B_E0_W_205_A.pdf   27    4             8.80       7.81   
+27    None  UWL_5_TWP_B_E0_W_205_A.pdf   28   14             9.80       8.70   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              4.80            10  
+2              2.35            10  
+3              4.00            10  
+4              7.45            10  
+5              7.30            10  
+6              2.80            10  
+7              6.15            10  
+8              1.90            10  
+9              1.30            10  
+10             1.85            10  
+11             3.25            10  
+12             1.25            10  
+13             1.10             8  
+14             1.26            10  
+15             2.05            10  
+16             3.35            10  
+17             0.72             8  
+18             1.65            10  
+19             1.02             8  
+20             5.50            16  
+21             3.20            16  
+22             4.20            14  
+23             3.00            16  
+24             5.70            16  
+25             2.90            16  
+26             2.20            12  
+27             0.70            12  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 90.91%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E0_W_206_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E0_W_206_A.pdf    1  2020           787.80     311.18   
+1     None  UWL_5_TWP_B_E0_W_206_A.pdf    2   654          3139.20    1936.89   
+2     None  UWL_5_TWP_B_E0_W_206_A.pdf    3   196           940.80     835.43   
+3     None  UWL_5_TWP_B_E0_W_206_A.pdf    4    28            70.00      62.16   
+4     None  UWL_5_TWP_B_E0_W_206_A.pdf    5   168           462.00     285.05   
+..     ...                         ...  ...   ...              ...        ...   
+75    None  UWL_5_TWP_B_E0_W_206_A.pdf   84     2            10.60      16.75   
+76    None  UWL_5_TWP_B_E0_W_206_A.pdf   85     2            11.40      18.01   
+77    None  UWL_5_TWP_B_E0_W_206_A.pdf   86     8            16.80      26.54   
+78    None  UWL_5_TWP_B_E0_W_206_A.pdf   87   100           200.00     177.60   
+79    None  UWL_5_TWP_B_E0_W_206_A.pdf   88   269           632.15     390.04   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.39             8  
+1              4.80            10  
+2              4.80            12  
+3              2.50            12  
+4              2.75            10  
+..              ...           ...  
+75             5.30            16  
+76             5.70            16  
+77             2.10            16  
+78             2.00            12  
+79             2.35            10  
+
+[80 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_307_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_307_A.pdf    1  587          7044.00    6255.07   
+1     None  UWL_5_TWP_B_E1_D_307_A.pdf    2  280          3080.00    2735.04   
+2     None  UWL_5_TWP_B_E1_D_307_A.pdf    3   66           528.00     468.86   
+3     None  UWL_5_TWP_B_E1_D_307_A.pdf    4   18           151.20     134.27   
+4     None  UWL_5_TWP_B_E1_D_307_A.pdf    5   19           178.60     158.60   
+5     None  UWL_5_TWP_B_E1_D_307_A.pdf    6   75           236.25     209.79   
+6     None  UWL_5_TWP_B_E1_D_307_A.pdf    7   19           203.30     180.53   
+7     None  UWL_5_TWP_B_E1_D_307_A.pdf    8   18           174.60     155.04   
+8     None  UWL_5_TWP_B_E1_D_307_A.pdf    9   38           220.40     195.72   
+9     None  UWL_5_TWP_B_E1_D_307_A.pdf   10   36           244.80     217.38   
+10    None  UWL_5_TWP_B_E1_D_307_A.pdf   11    2            12.00      10.66   
+11    None  UWL_5_TWP_B_E1_D_307_A.pdf   12   68           680.00     603.84   
+12    None  UWL_5_TWP_B_E1_D_307_A.pdf   13   12            70.80      62.87   
+13    None  UWL_5_TWP_B_E1_D_307_A.pdf   14   11            75.90      67.40   
+14    None  UWL_5_TWP_B_E1_D_307_A.pdf   15    8            52.80      46.89   
+15    None  UWL_5_TWP_B_E1_D_307_A.pdf   16    9            68.40      60.74   
+16    None  UWL_5_TWP_B_E1_D_307_A.pdf   17   34           142.80     126.81   
+17    None  UWL_5_TWP_B_E1_D_307_A.pdf   18   10            45.00      39.96   
+18    None  UWL_5_TWP_B_E1_D_307_A.pdf   19   39           425.10     377.49   
+19    None  UWL_5_TWP_B_E1_D_307_A.pdf   20    3            25.50      22.64   
+20    None  UWL_5_TWP_B_E1_D_307_A.pdf   21   20           211.00     187.37   
+21    None  UWL_5_TWP_B_E1_D_307_A.pdf   22    9            46.80      41.56   
+22    None  UWL_5_TWP_B_E1_D_307_A.pdf   23    3            28.50      25.31   
+23    None  UWL_5_TWP_B_E1_D_307_A.pdf   24    9            31.50      27.97   
+24    None  UWL_5_TWP_B_E1_D_307_A.pdf   25    4            21.20      18.83   
+25    None  UWL_5_TWP_B_E1_D_307_A.pdf   26  208          2246.40    1994.80   
+26    None  UWL_5_TWP_B_E1_D_307_A.pdf   27  119           523.60     464.96   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1             11.00            12  
+2              8.00            12  
+3              8.40            12  
+4              9.40            12  
+5              3.15            12  
+6             10.70            12  
+7              9.70            12  
+8              5.80            12  
+9              6.80            12  
+10             6.00            12  
+11            10.00            12  
+12             5.90            12  
+13             6.90            12  
+14             6.60            12  
+15             7.60            12  
+16             4.20            12  
+17             4.50            12  
+18            10.90            12  
+19             8.50            12  
+20            10.55            12  
+21             5.20            12  
+22             9.50            12  
+23             3.50            12  
+24             5.30            12  
+25            10.80            12  
+26             4.40    1212001100  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 52.46%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_308_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_308_A.pdf  101  617          1079.75     958.82   
+1     None  UWL_5_TWP_B_E1_D_308_A.pdf  102  918          1560.60    1385.81   
+2     None  UWL_5_TWP_B_E1_D_308_A.pdf  103   42            67.20      26.54   
+3     None  UWL_5_TWP_B_E1_D_308_A.pdf  104    2             2.76       2.45   
+4     None  UWL_5_TWP_B_E1_D_308_A.pdf  105   60            72.00      28.44   
+5     None  UWL_5_TWP_B_E1_D_308_A.pdf  106  404          2424.00     957.48   
+6     None  UWL_5_TWP_B_E1_D_308_A.pdf  107   48            96.00      85.25   
+7     None  UWL_5_TWP_B_E1_D_308_A.pdf  108   78            78.00      48.13   
+8     None  UWL_5_TWP_B_E1_D_308_A.pdf  109   18            30.60      48.35   
+9     None  UWL_5_TWP_B_E1_D_308_A.pdf  110  128           313.60     193.49   
+10    None  UWL_5_TWP_B_E1_D_308_A.pdf  111    4             6.00       5.33   
+11    None  UWL_5_TWP_B_E1_D_308_A.pdf  112    2             1.20       0.47   
+12    None  UWL_5_TWP_B_E1_D_308_A.pdf  113   48            14.40      35.57   
+13    None  UWL_5_TWP_B_E1_D_308_A.pdf  114   64           768.00    1213.44   
+14    None  UWL_5_TWP_B_E1_D_308_A.pdf  115    4            20.00      31.60   
+15    None  UWL_5_TWP_B_E1_D_308_A.pdf  116    8            88.00     139.04   
+16    None  UWL_5_TWP_B_E1_D_308_A.pdf  117   12            96.00     151.68   
+17    None  UWL_5_TWP_B_E1_D_308_A.pdf  118    8            48.00      75.84   
+18    None  UWL_5_TWP_B_E1_D_308_A.pdf  119   16            88.00     139.04   
+19    None  UWL_5_TWP_B_E1_D_308_A.pdf  120   36           108.00     170.64   
+20    None  UWL_5_TWP_B_E1_D_308_A.pdf  121    4            40.00      63.20   
+21    None  UWL_5_TWP_B_E1_D_308_A.pdf  122   16           144.00     227.52   
+22    None  UWL_5_TWP_B_E1_D_308_A.pdf  123    8            86.40     136.51   
+23    None  UWL_5_TWP_B_E1_D_308_A.pdf  124    8            56.00      88.48   
+24    None  UWL_5_TWP_B_E1_D_308_A.pdf  125    4            34.80      54.98   
+25    None  UWL_5_TWP_B_E1_D_308_A.pdf  126   10            40.00      63.20   
+26    None  UWL_5_TWP_B_E1_D_308_A.pdf  127   16            32.00      50.56   
+27    None  UWL_5_TWP_B_E1_D_308_A.pdf  128   12            30.00      47.40   
+28    None  UWL_5_TWP_B_E1_D_308_A.pdf  129    4            16.00      25.28   
+29    None  UWL_5_TWP_B_E1_D_308_A.pdf  130    4            20.40      32.23   
+30    None  UWL_5_TWP_B_E1_D_308_A.pdf  131    2            11.00      17.38   
+31    None  UWL_5_TWP_B_E1_D_308_A.pdf  161   16           192.00     739.20   
+
+   Einzel Lange [m] Diameter [mm]  
+0              1.75            12  
+1              1.70            12  
+2              1.60             8  
+3              1.38            12  
+4              1.20             8  
+5              6.00             8  
+6              2.00            12  
+7              1.00            10  
+8              1.70            16  
+9              2.45            10  
+10             1.50            12  
+11             0.60             8  
+12             0.30            20  
+13            12.00            16  
+14             5.00            16  
+15            11.00            16  
+16             8.00            16  
+17             6.00            16  
+18             5.50            16  
+19             3.00            16  
+20            10.00            16  
+21             9.00            16  
+22            10.80            16  
+23             7.00            16  
+24             8.70            16  
+25             4.00            16  
+26             2.00            16  
+27             2.50            16  
+28             4.00            16  
+29             5.10            16  
+30             5.50            16  
+31            12.00            25  
+Data inserted successfully into table Stabliste - Biegeformen table.
+No matches found in the PDF file.
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_310_A.pdf:
+Empty DataFrame
+Columns: [Pos., Stck, Gesamt Lange [m], Masse [kg], Einzel Lange [m], Diameter [mm]]
+Index: []
+No data found in UWL_5_TWP_B_E1_D_310_A.pdf, skipping.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_311_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_311_A.pdf    1  383          4596.00    4081.25   
+1     None  UWL_5_TWP_B_E1_D_311_A.pdf    2  232          1392.00    1236.10   
+2     None  UWL_5_TWP_B_E1_D_311_A.pdf    3  136          1496.00    1328.45   
+3     None  UWL_5_TWP_B_E1_D_311_A.pdf    4   51           377.40     335.13   
+4     None  UWL_5_TWP_B_E1_D_311_A.pdf    5   51           428.40     380.42   
+5     None  UWL_5_TWP_B_E1_D_311_A.pdf    6   56           464.80     412.74   
+6     None  UWL_5_TWP_B_E1_D_311_A.pdf    7   56           408.80     363.01   
+7     None  UWL_5_TWP_B_E1_D_311_A.pdf    8   25           230.00     204.24   
+8     None  UWL_5_TWP_B_E1_D_311_A.pdf    9   24           244.80     217.38   
+9     None  UWL_5_TWP_B_E1_D_311_A.pdf   10    7            30.80      27.35   
+10    None  UWL_5_TWP_B_E1_D_311_A.pdf   11    8            43.20      38.36   
+11    None  UWL_5_TWP_B_E1_D_311_A.pdf   12   54           421.20     374.03   
+12    None  UWL_5_TWP_B_E1_D_311_A.pdf   13   16           108.80      96.61   
+13    None  UWL_5_TWP_B_E1_D_311_A.pdf   14  109           861.10     764.66   
+14    None  UWL_5_TWP_B_E1_D_311_A.pdf   15   54           459.00     407.59   
+15    None  UWL_5_TWP_B_E1_D_311_A.pdf   16   55           412.50     366.30   
+16    None  UWL_5_TWP_B_E1_D_311_A.pdf   17   10            72.00      63.94   
+17    None  UWL_5_TWP_B_E1_D_311_A.pdf   18   11            90.20      80.10   
+18    None  UWL_5_TWP_B_E1_D_311_A.pdf   19   20           105.00      93.24   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              6.00            12  
+2             11.00            12  
+3              7.40            12  
+4              8.40            12  
+5              8.30            12  
+6              7.30            12  
+7              9.20            12  
+8             10.20            12  
+9              4.40            12  
+10             5.40            12  
+11             7.80            12  
+12             6.80            12  
+13             7.90            12  
+14             8.50            12  
+15             7.50            12  
+16             7.20            12  
+17             8.20            12  
+18             5.25        121200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_312_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_312_A.pdf  101  482           843.50     749.03   
+1     None  UWL_5_TWP_B_E1_D_312_A.pdf  102  394           669.80     594.78   
+2     None  UWL_5_TWP_B_E1_D_312_A.pdf  103   23            36.80      14.54   
+3     None  UWL_5_TWP_B_E1_D_312_A.pdf  104   12            14.64      13.00   
+4     None  UWL_5_TWP_B_E1_D_312_A.pdf  105  141           846.00     334.17   
+5     None  UWL_5_TWP_B_E1_D_312_A.pdf  106   87           435.00     171.83   
+6     None  UWL_5_TWP_B_E1_D_312_A.pdf  107   28            56.00      49.73   
+7     None  UWL_5_TWP_B_E1_D_312_A.pdf  108  113           113.00      69.72   
+8     None  UWL_5_TWP_B_E1_D_312_A.pdf  109   28            47.60      75.21   
+9     None  UWL_5_TWP_B_E1_D_312_A.pdf  110   32           384.00     606.72   
+10    None  UWL_5_TWP_B_E1_D_312_A.pdf  111    8            40.00      63.20   
+11    None  UWL_5_TWP_B_E1_D_312_A.pdf  112    8            64.00     101.12   
+12    None  UWL_5_TWP_B_E1_D_312_A.pdf  113   24            72.00     113.76   
+13    None  UWL_5_TWP_B_E1_D_312_A.pdf  114   12           108.00     170.64   
+14    None  UWL_5_TWP_B_E1_D_312_A.pdf  115    8            20.00      31.60   
+15    None  UWL_5_TWP_B_E1_D_312_A.pdf  116    8            56.00      88.48   
+16    None  UWL_5_TWP_B_E1_D_312_A.pdf  117    4            24.00      37.92   
+17    None  UWL_5_TWP_B_E1_D_312_A.pdf  118    4            32.40      51.19   
+18    None  UWL_5_TWP_B_E1_D_312_A.pdf  119    4            16.00      25.28   
+19    None  UWL_5_TWP_B_E1_D_312_A.pdf  120    4            29.60      46.77   
+20    None  UWL_5_TWP_B_E1_D_312_A.pdf  121    4            22.00      34.76   
+21    None  UWL_5_TWP_B_E1_D_312_A.pdf  122    4            40.00      63.20   
+22    None  UWL_5_TWP_B_E1_D_312_A.pdf  123    4            20.40      32.23   
+23    None  UWL_5_TWP_B_E1_D_312_A.pdf  124    4            37.60      59.41   
+24    None  UWL_5_TWP_B_E1_D_312_A.pdf  125   12            36.00      56.88   
+25    None  UWL_5_TWP_B_E1_D_312_A.pdf  126    4            14.00      22.12   
+
+   Einzel Lange [m] Diameter [mm]  
+0              1.75            12  
+1              1.70            12  
+2              1.60             8  
+3              1.22            12  
+4              6.00             8  
+5              5.00             8  
+6              2.00            12  
+7              1.00            10  
+8              1.70            16  
+9             12.00            16  
+10             5.00            16  
+11             8.00            16  
+12             3.00            16  
+13             9.00            16  
+14             2.50            16  
+15             7.00            16  
+16             6.00            16  
+17             8.10            16  
+18             4.00            16  
+19             7.40            16  
+20             5.50            16  
+21            10.00            16  
+22             5.10            16  
+23             9.40            16  
+24             3.00            16  
+25             3.50        167525  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_313_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_313_A.pdf  201  359          4308.00    3825.50   
+1     None  UWL_5_TWP_B_E1_D_313_A.pdf  202    9            89.10      79.12   
+2     None  UWL_5_TWP_B_E1_D_313_A.pdf  203   10           109.00      96.79   
+3     None  UWL_5_TWP_B_E1_D_313_A.pdf  204   54           194.40     172.63   
+4     None  UWL_5_TWP_B_E1_D_313_A.pdf  205   55           143.00     126.98   
+5     None  UWL_5_TWP_B_E1_D_313_A.pdf  206   54           523.80     465.13   
+6     None  UWL_5_TWP_B_E1_D_313_A.pdf  207   55           588.50     522.59   
+7     None  UWL_5_TWP_B_E1_D_313_A.pdf  208   71           497.00     441.34   
+8     None  UWL_5_TWP_B_E1_D_313_A.pdf  209  116           510.40     453.24   
+9     None  UWL_5_TWP_B_E1_D_313_A.pdf  210   35           119.00     105.67   
+10    None  UWL_5_TWP_B_E1_D_313_A.pdf  211   23           213.90     189.94   
+11    None  UWL_5_TWP_B_E1_D_313_A.pdf  212   17           175.10     155.49   
+12    None  UWL_5_TWP_B_E1_D_313_A.pdf  213   10            62.00      55.06   
+13    None  UWL_5_TWP_B_E1_D_313_A.pdf  214    9            64.80      57.54   
+14    None  UWL_5_TWP_B_E1_D_313_A.pdf  215   38           296.40     263.20   
+15    None  UWL_5_TWP_B_E1_D_313_A.pdf  216   22           182.60     162.15   
+16    None  UWL_5_TWP_B_E1_D_313_A.pdf  217   36           126.00     111.89   
+17    None  UWL_5_TWP_B_E1_D_313_A.pdf  218   32           144.00     127.87   
+18    None  UWL_5_TWP_B_E1_D_313_A.pdf  219    1             2.65       2.35   
+19    None  UWL_5_TWP_B_E1_D_313_A.pdf  220  210          1890.00    1678.32   
+20    None  UWL_5_TWP_B_E1_D_313_A.pdf  221   25           137.50     122.10   
+21    None  UWL_5_TWP_B_E1_D_313_A.pdf  222   80           432.00     383.62   
+22    None  UWL_5_TWP_B_E1_D_313_A.pdf  223   15           109.50      97.24   
+23    None  UWL_5_TWP_B_E1_D_313_A.pdf  224   11            58.30      51.77   
+24    None  UWL_5_TWP_B_E1_D_313_A.pdf  225   11            69.30      61.54   
+25    None  UWL_5_TWP_B_E1_D_313_A.pdf  226   21           110.25      97.90   
+26    None  UWL_5_TWP_B_E1_D_313_A.pdf  227   29            72.50      64.38   
+27    None  UWL_5_TWP_B_E1_D_313_A.pdf  228   58           638.00     566.54   
+28    None  UWL_5_TWP_B_E1_D_313_A.pdf  229   42           197.40     487.58   
+29    None  UWL_5_TWP_B_E1_D_313_A.pdf  230   42           184.80     291.98   
+30    None  UWL_5_TWP_B_E1_D_313_A.pdf  231   23           110.40     174.43   
+31    None  UWL_5_TWP_B_E1_D_313_A.pdf  232   23           117.30     289.73   
+32    None  UWL_5_TWP_B_E1_D_313_A.pdf  233  110           385.00     237.55   
+33    None  UWL_5_TWP_B_E1_D_313_A.pdf  234   72           280.80     443.66   
+34    None  UWL_5_TWP_B_E1_D_313_A.pdf  235   16            56.00      22.12   
+35    None  UWL_5_TWP_B_E1_D_313_A.pdf  236   80           336.00     530.88   
+36    None  UWL_5_TWP_B_E1_D_313_A.pdf  237   26            83.20     131.46   
+37    None  UWL_5_TWP_B_E1_D_313_A.pdf  238   13            70.20     110.92   
+38    None  UWL_5_TWP_B_E1_D_313_A.pdf  239    8            23.20      14.31   
+39    None  UWL_5_TWP_B_E1_D_313_A.pdf  240    5            11.75       7.25   
+40    None  UWL_5_TWP_B_E1_D_313_A.pdf  241   10            23.00      14.19   
+41    None  UWL_5_TWP_B_E1_D_313_A.pdf  242    8            45.60      28.14   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              9.90            12  
+2             10.90            12  
+3              3.60            12  
+4              2.60            12  
+5              9.70            12  
+6             10.70            12  
+7              7.00            12  
+8              4.40            12  
+9              3.40            12  
+10             9.30            12  
+11            10.30            12  
+12             6.20            12  
+13             7.20            12  
+14             7.80            12  
+15             8.30            12  
+16             3.50            12  
+17             4.50            12  
+18             2.65            12  
+19             9.00            12  
+20             5.50            12  
+21             5.40            12  
+22             7.30            12  
+23             5.30            12  
+24             6.30            12  
+25             5.25            12  
+26             2.50            12  
+27            11.00            12  
+28             4.70            20  
+29             4.40            16  
+30             4.80            16  
+31             5.10            20  
+32             3.50            10  
+33             3.90            16  
+34             3.50             8  
+35             4.20            16  
+36             3.20            16  
+37             5.40            16  
+38             2.90            10  
+39             2.35            10  
+40             2.30            10  
+41             5.70        101200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_314_A.pdf:
+  plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_E1_D_314_A.pdf    1   54           226.80     139.94   
+1    None  UWL_5_TWP_B_E1_D_314_A.pdf    2   27            79.65      49.14   
+2    None  UWL_5_TWP_B_E1_D_314_A.pdf    3   68           218.28     134.68   
+3    None  UWL_5_TWP_B_E1_D_314_A.pdf    4  130           195.00      77.03   
+4    None  UWL_5_TWP_B_E1_D_314_A.pdf    5    2             4.28       2.64   
+5    None  UWL_5_TWP_B_E1_D_314_A.pdf    6   12            42.12      25.99   
+6    None  UWL_5_TWP_B_E1_D_314_A.pdf    7    1             1.06       0.65   
+7    None  UWL_5_TWP_B_E1_D_314_A.pdf    8   16            67.20      59.67   
+8    None  UWL_5_TWP_B_E1_D_314_A.pdf    9    8            23.60      20.96   
+9    None  UWL_5_TWP_B_E1_D_314_A.pdf   10   42            36.12      32.07   
+
+  Einzel Lange [m] Diameter [mm]  
+0             4.20            10  
+1             2.95            10  
+2             3.21            10  
+3             1.50             8  
+4             2.14            10  
+5             3.51            10  
+6             1.06            10  
+7             4.20            12  
+8             2.95            12  
+9             0.86      12420295  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 96.43%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_315_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_315_A.pdf    1  545          2534.25    1563.63   
+1     None  UWL_5_TWP_B_E1_D_315_A.pdf    2   22           108.90      67.19   
+2     None  UWL_5_TWP_B_E1_D_315_A.pdf    3  126          1512.00     932.90   
+3     None  UWL_5_TWP_B_E1_D_315_A.pdf    4   42           462.00     285.05   
+4     None  UWL_5_TWP_B_E1_D_315_A.pdf    5   42           352.80     217.68   
+5     None  UWL_5_TWP_B_E1_D_315_A.pdf    6   42           394.80     243.59   
+6     None  UWL_5_TWP_B_E1_D_315_A.pdf    7  494           568.10     350.52   
+7     None  UWL_5_TWP_B_E1_D_315_A.pdf    8   74            81.40      50.22   
+8     None  UWL_5_TWP_B_E1_D_315_A.pdf    9  302           338.24     208.69   
+9     None  UWL_5_TWP_B_E1_D_315_A.pdf   10  210           117.60      46.45   
+10    None  UWL_5_TWP_B_E1_D_315_A.pdf   11  302           353.34     218.01   
+11    None  UWL_5_TWP_B_E1_D_315_A.pdf   12   14            24.50      15.12   
+12    None  UWL_5_TWP_B_E1_D_315_A.pdf   13   14            22.12      13.65   
+13    None  UWL_5_TWP_B_E1_D_315_A.pdf   14   12            18.84      11.62   
+14    None  UWL_5_TWP_B_E1_D_315_A.pdf   16    8            24.00      37.92   
+15    None  UWL_5_TWP_B_E1_D_315_A.pdf   17   16           192.00     474.24   
+16    None  UWL_5_TWP_B_E1_D_315_A.pdf   18    4            17.40      27.49   
+17    None  UWL_5_TWP_B_E1_D_315_A.pdf   19    8            82.40     203.53   
+18    None  UWL_5_TWP_B_E1_D_315_A.pdf   20   20           240.00     213.12   
+19    None  UWL_5_TWP_B_E1_D_315_A.pdf   21   10            88.00      78.14   
+20    None  UWL_5_TWP_B_E1_D_315_A.pdf   22  220           550.00     339.35   
+21    None  UWL_5_TWP_B_E1_D_315_A.pdf   23  385           246.40      97.33   
+22    None  UWL_5_TWP_B_E1_D_315_A.pdf   24    4            25.80      31.22   
+23    None  UWL_5_TWP_B_E1_D_315_A.pdf   25    4            42.80      51.79   
+24    None  UWL_5_TWP_B_E1_D_315_A.pdf   26    4            18.80      22.75   
+25    None  UWL_5_TWP_B_E1_D_315_A.pdf   27    4            21.80      26.38   
+26    None  UWL_5_TWP_B_E1_D_315_A.pdf   28    4             7.00       8.47   
+
+   Einzel Lange [m] Diameter [mm]  
+0              4.65            10  
+1              4.95            10  
+2             12.00            10  
+3             11.00            10  
+4              8.40            10  
+5              9.40            10  
+6              1.15            10  
+7              1.10            10  
+8              1.12            10  
+9              0.56             8  
+10             1.17            10  
+11             1.75            10  
+12             1.58            10  
+13             1.57            10  
+14             3.00            16  
+15            12.00            20  
+16             4.35            16  
+17            10.30            20  
+18            12.00            12  
+19             8.80            12  
+20             2.50            10  
+21             0.64             8  
+22             6.45            14  
+23            10.70            14  
+24             4.70            14  
+25             5.45            14  
+26             1.75      14465495  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 95.65%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_D_316_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_D_316_A.pdf    1  418          1254.00     773.72   
+1     None  UWL_5_TWP_B_E1_D_316_A.pdf    2   70           217.00     133.89   
+2     None  UWL_5_TWP_B_E1_D_316_A.pdf    3   25           300.00     185.10   
+3     None  UWL_5_TWP_B_E1_D_316_A.pdf    4   25           122.50      75.58   
+4     None  UWL_5_TWP_B_E1_D_316_A.pdf    5   56           582.40     359.34   
+5     None  UWL_5_TWP_B_E1_D_316_A.pdf    6  401           461.15     284.53   
+6     None  UWL_5_TWP_B_E1_D_316_A.pdf    7  100           110.00      67.87   
+7     None  UWL_5_TWP_B_E1_D_316_A.pdf    8  180           100.80      39.82   
+8     None  UWL_5_TWP_B_E1_D_316_A.pdf    9   60           105.00      64.79   
+9     None  UWL_5_TWP_B_E1_D_316_A.pdf   10   70            75.60      46.65   
+10    None  UWL_5_TWP_B_E1_D_316_A.pdf   12  180           111.60      44.08   
+11    None  UWL_5_TWP_B_E1_D_316_A.pdf   13   16            44.80      70.78   
+12    None  UWL_5_TWP_B_E1_D_316_A.pdf   14    8            96.00     237.12   
+13    None  UWL_5_TWP_B_E1_D_316_A.pdf   15    8            23.20      36.66   
+14    None  UWL_5_TWP_B_E1_D_316_A.pdf   16    8            82.40     203.53   
+15    None  UWL_5_TWP_B_E1_D_316_A.pdf   17    8            46.40     114.61   
+16    None  UWL_5_TWP_B_E1_D_316_A.pdf   18   16           134.40      82.92   
+17    None  UWL_5_TWP_B_E1_D_316_A.pdf   19   15           141.00      87.00   
+18    None  UWL_5_TWP_B_E1_D_316_A.pdf   20   15           112.50      69.41   
+19    None  UWL_5_TWP_B_E1_D_316_A.pdf   21   16           136.00      83.91   
+20    None  UWL_5_TWP_B_E1_D_316_A.pdf   22  100           250.00     154.25   
+21    None  UWL_5_TWP_B_E1_D_316_A.pdf   23  120           264.00     162.89   
+
+   Einzel Lange [m] Diameter [mm]  
+0              3.00            10  
+1              3.10            10  
+2             12.00            10  
+3              4.90            10  
+4             10.40            10  
+5              1.15            10  
+6              1.10            10  
+7              0.56             8  
+8              1.75            10  
+9              1.08            10  
+10             0.62             8  
+11             2.80            16  
+12            12.00            20  
+13             2.90            16  
+14            10.30            20  
+15             5.80            20  
+16             8.40            10  
+17             9.40            10  
+18             7.50            10  
+19             8.50            10  
+20             2.50            10  
+21             2.20      10300310  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_S_301_A.pdf:
+  plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_E1_S_301_A.pdf    1   60           294.00     464.52   
+1    None  UWL_5_TWP_B_E1_S_301_A.pdf    2   12            45.60      40.49   
+2    None  UWL_5_TWP_B_E1_S_301_A.pdf    3   16            78.40     193.65   
+3    None  UWL_5_TWP_B_E1_S_301_A.pdf    4    4            19.60      30.97   
+4    None  UWL_5_TWP_B_E1_S_301_A.pdf    5  136           184.96     114.12   
+5    None  UWL_5_TWP_B_E1_S_301_A.pdf    6  442           777.92     479.98   
+6    None  UWL_5_TWP_B_E1_S_301_A.pdf    7   56           104.16      64.27   
+7    None  UWL_5_TWP_B_E1_S_301_A.pdf    8   56            88.48      34.95   
+8    None  UWL_5_TWP_B_E1_S_301_A.pdf    9   24            49.44      30.50   
+9    None  UWL_5_TWP_B_E1_S_301_A.pdf   10   66            56.76      22.42   
+
+  Einzel Lange [m] Diameter [mm]  
+0             4.90            16  
+1             3.80            12  
+2             4.90            20  
+3             4.90            16  
+4             1.36            10  
+5             1.76            10  
+6             1.86            10  
+7             1.58             8  
+8             2.06            10  
+9             0.86       8355105  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_W_302_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_W_302_A.pdf    1  390           156.00      61.62   
+1     None  UWL_5_TWP_B_E1_W_302_A.pdf    2  720           360.00     142.20   
+2     None  UWL_5_TWP_B_E1_W_302_A.pdf    3  415          1867.50    1658.34   
+3     None  UWL_5_TWP_B_E1_W_302_A.pdf    4  372          1636.80    1009.91   
+4     None  UWL_5_TWP_B_E1_W_302_A.pdf    5  409          1451.95    1289.33   
+5     None  UWL_5_TWP_B_E1_W_302_A.pdf    6   63            94.50      83.92   
+6     None  UWL_5_TWP_B_E1_W_302_A.pdf    7   14            46.90      41.65   
+7     None  UWL_5_TWP_B_E1_W_302_A.pdf    8  168           596.40     367.98   
+8     None  UWL_5_TWP_B_E1_W_302_A.pdf    9  194          2328.00    1436.38   
+9     None  UWL_5_TWP_B_E1_W_302_A.pdf   10   14           130.20      80.33   
+10    None  UWL_5_TWP_B_E1_W_302_A.pdf   11   78           351.00     216.57   
+11    None  UWL_5_TWP_B_E1_W_302_A.pdf   12   38           400.90     247.36   
+12    None  UWL_5_TWP_B_E1_W_302_A.pdf   13   58           133.40      82.31   
+13    None  UWL_5_TWP_B_E1_W_302_A.pdf   14   58           182.70     112.73   
+14    None  UWL_5_TWP_B_E1_W_302_A.pdf   15  102           306.00     188.80   
+15    None  UWL_5_TWP_B_E1_W_302_A.pdf   16   44           123.20      76.01   
+16    None  UWL_5_TWP_B_E1_W_302_A.pdf   17   58           104.40      64.41   
+17    None  UWL_5_TWP_B_E1_W_302_A.pdf   18   14            70.00      43.19   
+18    None  UWL_5_TWP_B_E1_W_302_A.pdf   19  252           504.00     310.97   
+19    None  UWL_5_TWP_B_E1_W_302_A.pdf   20   48            72.00      28.44   
+20    None  UWL_5_TWP_B_E1_W_302_A.pdf   21  307           583.30     359.90   
+21    None  UWL_5_TWP_B_E1_W_302_A.pdf   22  234           503.10     446.75   
+22    None  UWL_5_TWP_B_E1_W_302_A.pdf   23   55            71.50      44.12   
+23    None  UWL_5_TWP_B_E1_W_302_A.pdf   24   27            55.35      34.15   
+24    None  UWL_5_TWP_B_E1_W_302_A.pdf   25   27            66.15      40.81   
+25    None  UWL_5_TWP_B_E1_W_302_A.pdf   26   19            28.50      17.58   
+26    None  UWL_5_TWP_B_E1_W_302_A.pdf   27    7            16.45      14.61   
+27    None  UWL_5_TWP_B_E1_W_302_A.pdf   28   19            43.70      26.96   
+28    None  UWL_5_TWP_B_E1_W_302_A.pdf   29    3             2.16       0.85   
+29    None  UWL_5_TWP_B_E1_W_302_A.pdf   30    2             3.20       1.97   
+30    None  UWL_5_TWP_B_E1_W_302_A.pdf   31   15            29.25      25.97   
+31    None  UWL_5_TWP_B_E1_W_302_A.pdf   32   46            64.40      39.73   
+32    None  UWL_5_TWP_B_E1_W_302_A.pdf   33    7            10.15       9.01   
+33    None  UWL_5_TWP_B_E1_W_302_A.pdf   34   27            55.35      49.15   
+34    None  UWL_5_TWP_B_E1_W_302_A.pdf   35   10            18.50      16.43   
+35    None  UWL_5_TWP_B_E1_W_302_A.pdf   36    4             9.80       6.05   
+36    None  UWL_5_TWP_B_E1_W_302_A.pdf   37   14            18.90      11.66   
+37    None  UWL_5_TWP_B_E1_W_302_A.pdf   38   18            36.90      22.77   
+38    None  UWL_5_TWP_B_E1_W_302_A.pdf   39    3             4.86       3.00   
+39    None  UWL_5_TWP_B_E1_W_302_A.pdf   40    7            10.85       9.63   
+40    None  UWL_5_TWP_B_E1_W_302_A.pdf   41    4            19.20      17.05   
+41    None  UWL_5_TWP_B_E1_W_302_A.pdf   42   52           260.00     410.80   
+42    None  UWL_5_TWP_B_E1_W_302_A.pdf   43    4            12.00      18.96   
+43    None  UWL_5_TWP_B_E1_W_302_A.pdf   44    8            43.20     166.32   
+44    None  UWL_5_TWP_B_E1_W_302_A.pdf   45   28            70.00     110.60   
+45    None  UWL_5_TWP_B_E1_W_302_A.pdf   46    8            28.00      44.24   
+46    None  UWL_5_TWP_B_E1_W_302_A.pdf   47    4            15.20      24.02   
+47    None  UWL_5_TWP_B_E1_W_302_A.pdf   48    3            12.00      18.96   
+48    None  UWL_5_TWP_B_E1_W_302_A.pdf   49    6            16.20      25.60   
+49    None  UWL_5_TWP_B_E1_W_302_A.pdf   50   14            28.00      44.24   
+50    None  UWL_5_TWP_B_E1_W_302_A.pdf   51    4            48.00     184.80   
+51    None  UWL_5_TWP_B_E1_W_302_A.pdf   52    4            25.60      98.56   
+52    None  UWL_5_TWP_B_E1_W_302_A.pdf   53    4            13.00      32.11   
+53    None  UWL_5_TWP_B_E1_W_302_A.pdf   54   12            24.00      37.92   
+54    None  UWL_5_TWP_B_E1_W_302_A.pdf   55    8            43.20     166.32   
+55    None  UWL_5_TWP_B_E1_W_302_A.pdf   56    8            37.60      59.41   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              4.50            12  
+3              4.40            10  
+4              3.55            12  
+5              1.50            12  
+6              3.35            12  
+7              3.55            10  
+8             12.00            10  
+9              9.30            10  
+10             4.50            10  
+11            10.55            10  
+12             2.30            10  
+13             3.15            10  
+14             3.00            10  
+15             2.80            10  
+16             1.80            10  
+17             5.00            10  
+18             2.00            10  
+19             1.50             8  
+20             1.90            10  
+21             2.15            12  
+22             1.30            10  
+23             2.05            10  
+24             2.45            10  
+25             1.50            10  
+26             2.35            12  
+27             2.30            10  
+28             0.72             8  
+29             1.60            10  
+30             1.95            12  
+31             1.40            10  
+32             1.45            12  
+33             2.05            12  
+34             1.85            12  
+35             2.45            10  
+36             1.35            10  
+37             2.05            10  
+38             1.62            10  
+39             1.55            12  
+40             4.80            12  
+41             5.00            16  
+42             3.00            16  
+43             5.40            25  
+44             2.50            16  
+45             3.50            16  
+46             3.80            16  
+47             4.00            16  
+48             2.70            16  
+49             2.00            16  
+50            12.00            25  
+51             6.40            25  
+52             3.25            20  
+53             2.00            16  
+54             5.40            25  
+55             4.70            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_W_303_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_W_303_A.pdf    1  500           200.00      79.00   
+1     None  UWL_5_TWP_B_E1_W_303_A.pdf    2   20            10.00       3.95   
+2     None  UWL_5_TWP_B_E1_W_303_A.pdf    3  220            85.80      33.89   
+3     None  UWL_5_TWP_B_E1_W_303_A.pdf    4  754          3317.60    2046.96   
+4     None  UWL_5_TWP_B_E1_W_303_A.pdf    5   40           132.00      81.44   
+5     None  UWL_5_TWP_B_E1_W_303_A.pdf    6   58           696.00     429.43   
+6     None  UWL_5_TWP_B_E1_W_303_A.pdf    7  116           864.20     533.21   
+7     None  UWL_5_TWP_B_E1_W_303_A.pdf    8   18            76.50      47.20   
+8     None  UWL_5_TWP_B_E1_W_303_A.pdf    9   14           148.40      91.56   
+9     None  UWL_5_TWP_B_E1_W_303_A.pdf   10   14           113.40      69.97   
+10    None  UWL_5_TWP_B_E1_W_303_A.pdf   11   14            43.40      26.78   
+11    None  UWL_5_TWP_B_E1_W_303_A.pdf   12   58           249.40     153.88   
+12    None  UWL_5_TWP_B_E1_W_303_A.pdf   13   18            54.00      33.32   
+13    None  UWL_5_TWP_B_E1_W_303_A.pdf   14   88           642.40     396.36   
+14    None  UWL_5_TWP_B_E1_W_303_A.pdf   15   40           104.00      64.17   
+15    None  UWL_5_TWP_B_E1_W_303_A.pdf   16   16            44.00      27.15   
+16    None  UWL_5_TWP_B_E1_W_303_A.pdf   17  264           501.60     309.49   
+17    None  UWL_5_TWP_B_E1_W_303_A.pdf   18   32            41.60      25.67   
+18    None  UWL_5_TWP_B_E1_W_303_A.pdf   19   48            88.80      54.79   
+19    None  UWL_5_TWP_B_E1_W_303_A.pdf   20   26            63.70      39.30   
+20    None  UWL_5_TWP_B_E1_W_303_A.pdf   21   20            25.00      15.43   
+21    None  UWL_5_TWP_B_E1_W_303_A.pdf   22    2             2.12       1.31   
+22    None  UWL_5_TWP_B_E1_W_303_A.pdf   23   28            56.00      34.55   
+23    None  UWL_5_TWP_B_E1_W_303_A.pdf   24   68           132.60      81.81   
+24    None  UWL_5_TWP_B_E1_W_303_A.pdf   25   80           158.40      62.57   
+25    None  UWL_5_TWP_B_E1_W_303_A.pdf   26   44            96.80      59.73   
+26    None  UWL_5_TWP_B_E1_W_303_A.pdf   27   24            32.40      19.99   
+27    None  UWL_5_TWP_B_E1_W_303_A.pdf   28   44            47.52      29.32   
+28    None  UWL_5_TWP_B_E1_W_303_A.pdf   29   40            48.00      29.62   
+29    None  UWL_5_TWP_B_E1_W_303_A.pdf   30    3             6.48       4.00   
+30    None  UWL_5_TWP_B_E1_W_303_A.pdf   31    3             5.76       3.55   
+31    None  UWL_5_TWP_B_E1_W_303_A.pdf   32   20            58.00      35.79   
+32    None  UWL_5_TWP_B_E1_W_303_A.pdf   33   22            49.50      30.54   
+33    None  UWL_5_TWP_B_E1_W_303_A.pdf   34   58           124.70      76.94   
+34    None  UWL_5_TWP_B_E1_W_303_A.pdf   35    6             9.00      14.22   
+35    None  UWL_5_TWP_B_E1_W_303_A.pdf   36   10            25.00      39.50   
+36    None  UWL_5_TWP_B_E1_W_303_A.pdf   37   80           400.00     632.00   
+37    None  UWL_5_TWP_B_E1_W_303_A.pdf   38   16            51.20      80.90   
+38    None  UWL_5_TWP_B_E1_W_303_A.pdf   39    2             4.40       6.95   
+39    None  UWL_5_TWP_B_E1_W_303_A.pdf   40    6            21.60      34.13   
+40    None  UWL_5_TWP_B_E1_W_303_A.pdf   41    8             9.60      15.17   
+41    None  UWL_5_TWP_B_E1_W_303_A.pdf   42   14            28.00      44.24   
+42    None  UWL_5_TWP_B_E1_W_303_A.pdf   43    4            11.60      18.33   
+43    None  UWL_5_TWP_B_E1_W_303_A.pdf   44    2             6.20       9.80   
+44    None  UWL_5_TWP_B_E1_W_303_A.pdf   45    2             3.40       5.37   
+45    None  UWL_5_TWP_B_E1_W_303_A.pdf   46   28            19.60      17.40   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.39             8  
+3              4.40            10  
+4              3.30            10  
+5             12.00            10  
+6              7.45            10  
+7              4.25            10  
+8             10.60            10  
+9              8.10            10  
+10             3.10            10  
+11             4.30            10  
+12             3.00            10  
+13             7.30            10  
+14             2.60            10  
+15             2.75            10  
+16             1.90            10  
+17             1.30            10  
+18             1.85            10  
+19             2.45            10  
+20             1.25            10  
+21             1.06            10  
+22             2.00            10  
+23             1.95            10  
+24             1.98             8  
+25             2.20            10  
+26             1.35            10  
+27             1.08            10  
+28             1.20            10  
+29             2.16            10  
+30             1.92            10  
+31             2.90            10  
+32             2.25            10  
+33             2.15            10  
+34             1.50            16  
+35             2.50            16  
+36             5.00            16  
+37             3.20            16  
+38             2.20            16  
+39             3.60            16  
+40             1.20            16  
+41             2.00            16  
+42             2.90            16  
+43             3.10            16  
+44             1.70            16  
+45             0.70            12  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 98.68%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_W_304_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_W_304_A.pdf    1  480           192.00      75.84   
+1     None  UWL_5_TWP_B_E1_W_304_A.pdf    2   20            10.00       3.95   
+2     None  UWL_5_TWP_B_E1_W_304_A.pdf    3  480           187.20      73.94   
+3     None  UWL_5_TWP_B_E1_W_304_A.pdf    4   60            36.60      14.46   
+4     None  UWL_5_TWP_B_E1_W_304_A.pdf    5  722          3176.80    1960.09   
+..     ...                         ...  ...  ...              ...        ...   
+70    None  UWL_5_TWP_B_E1_W_304_A.pdf   72    2             8.00      12.64   
+71    None  UWL_5_TWP_B_E1_W_304_A.pdf   73    2            10.00      15.80   
+72    None  UWL_5_TWP_B_E1_W_304_A.pdf   74   10           120.00     145.20   
+73    None  UWL_5_TWP_B_E1_W_304_A.pdf   75   10            54.00      65.34   
+74    None  UWL_5_TWP_B_E1_W_304_A.pdf   76    4            17.60      27.81   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.39             8  
+3              0.61             8  
+4              4.40            10  
+..              ...           ...  
+70             4.00            16  
+71             5.00            16  
+72            12.00            14  
+73             5.40            14  
+74             4.40            16  
+
+[75 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_W_305_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_W_305_A.pdf    1  430           172.00      67.94   
+1     None  UWL_5_TWP_B_E1_W_305_A.pdf    2  450          1980.00    1221.66   
+2     None  UWL_5_TWP_B_E1_W_305_A.pdf    3   20            47.00      29.00   
+3     None  UWL_5_TWP_B_E1_W_305_A.pdf    4  116           864.20     533.21   
+4     None  UWL_5_TWP_B_E1_W_305_A.pdf    5   18           131.40      81.07   
+5     None  UWL_5_TWP_B_E1_W_305_A.pdf    6   58           162.40     100.20   
+6     None  UWL_5_TWP_B_E1_W_305_A.pdf    7   40           226.00     139.44   
+7     None  UWL_5_TWP_B_E1_W_305_A.pdf    8   18           137.70      84.96   
+8     None  UWL_5_TWP_B_E1_W_305_A.pdf    9   80           176.00     108.59   
+9     None  UWL_5_TWP_B_E1_W_305_A.pdf   10  265           503.50     310.66   
+10    None  UWL_5_TWP_B_E1_W_305_A.pdf   11  123           159.90      98.66   
+11    None  UWL_5_TWP_B_E1_W_305_A.pdf   12   37            68.45      42.23   
+12    None  UWL_5_TWP_B_E1_W_305_A.pdf   13   50           122.50      75.58   
+13    None  UWL_5_TWP_B_E1_W_305_A.pdf   14   17            21.42      13.22   
+14    None  UWL_5_TWP_B_E1_W_305_A.pdf   15   13            26.65      16.44   
+15    None  UWL_5_TWP_B_E1_W_305_A.pdf   16    3             2.16       0.85   
+16    None  UWL_5_TWP_B_E1_W_305_A.pdf   17    3             4.95       3.05   
+17    None  UWL_5_TWP_B_E1_W_305_A.pdf   18    3             3.06       1.21   
+18    None  UWL_5_TWP_B_E1_W_305_A.pdf   19   20            24.00      14.81   
+19    None  UWL_5_TWP_B_E1_W_305_A.pdf   20   20            22.80      14.07   
+20    None  UWL_5_TWP_B_E1_W_305_A.pdf   21   52           260.00     410.80   
+21    None  UWL_5_TWP_B_E1_W_305_A.pdf   22    8            25.60      40.45   
+22    None  UWL_5_TWP_B_E1_W_305_A.pdf   23    2             6.00       9.48   
+23    None  UWL_5_TWP_B_E1_W_305_A.pdf   24    4            11.60      18.33   
+24    None  UWL_5_TWP_B_E1_W_305_A.pdf   25    4             8.80       7.81   
+25    None  UWL_5_TWP_B_E1_W_305_A.pdf   26    4             7.60      12.01   
+26    None  UWL_5_TWP_B_E1_W_305_A.pdf   27   14             9.80       8.70   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              4.40            10  
+2              2.35            10  
+3              7.45            10  
+4              7.30            10  
+5              2.80            10  
+6              5.65            10  
+7              7.65            10  
+8              2.20            10  
+9              1.90            10  
+10             1.30            10  
+11             1.85            10  
+12             2.45            10  
+13             1.26            10  
+14             2.05            10  
+15             0.72             8  
+16             1.65            10  
+17             1.02             8  
+18             1.20            10  
+19             1.14            10  
+20             5.00            16  
+21             3.20            16  
+22             3.00            16  
+23             2.90            16  
+24             2.20            12  
+25             1.90            16  
+26             0.70            12  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 91.84%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E1_W_306_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E1_W_306_A.pdf    1  1760           686.40     271.13   
+1     None  UWL_5_TWP_B_E1_W_306_A.pdf    2   582          2560.80    1580.01   
+2     None  UWL_5_TWP_B_E1_W_306_A.pdf    3   102           448.80     398.53   
+3     None  UWL_5_TWP_B_E1_W_306_A.pdf    4   293          3516.00    2169.37   
+4     None  UWL_5_TWP_B_E1_W_306_A.pdf    5    62           279.00     172.14   
+5     None  UWL_5_TWP_B_E1_W_306_A.pdf    6    76           228.00     140.68   
+6     None  UWL_5_TWP_B_E1_W_306_A.pdf    7    41           451.00     278.27   
+7     None  UWL_5_TWP_B_E1_W_306_A.pdf    8    26           192.40     118.71   
+8     None  UWL_5_TWP_B_E1_W_306_A.pdf    9    26           158.60      97.86   
+9     None  UWL_5_TWP_B_E1_W_306_A.pdf   10    18           120.60      74.41   
+10    None  UWL_5_TWP_B_E1_W_306_A.pdf   11    17           130.90      80.77   
+11    None  UWL_5_TWP_B_E1_W_306_A.pdf   12    32           192.00     118.46   
+12    None  UWL_5_TWP_B_E1_W_306_A.pdf   13    14           120.40      74.29   
+13    None  UWL_5_TWP_B_E1_W_306_A.pdf   14    22           211.20     130.31   
+14    None  UWL_5_TWP_B_E1_W_306_A.pdf   15    24            96.00      59.23   
+15    None  UWL_5_TWP_B_E1_W_306_A.pdf   16    26           241.80     149.19   
+16    None  UWL_5_TWP_B_E1_W_306_A.pdf   17    26           197.60     121.92   
+17    None  UWL_5_TWP_B_E1_W_306_A.pdf   18    26           208.00     128.34   
+18    None  UWL_5_TWP_B_E1_W_306_A.pdf   19    14           149.80      92.43   
+19    None  UWL_5_TWP_B_E1_W_306_A.pdf   20    12           116.40      71.82   
+20    None  UWL_5_TWP_B_E1_W_306_A.pdf   21    26           275.60     170.05   
+21    None  UWL_5_TWP_B_E1_W_306_A.pdf   22    12            60.00      37.02   
+22    None  UWL_5_TWP_B_E1_W_306_A.pdf   23   334           617.90     381.24   
+23    None  UWL_5_TWP_B_E1_W_306_A.pdf   24  1204          4093.60    2525.75   
+24    None  UWL_5_TWP_B_E1_W_306_A.pdf   25   905          1683.30    1038.60   
+25    None  UWL_5_TWP_B_E1_W_306_A.pdf   28    30            91.50      56.46   
+26    None  UWL_5_TWP_B_E1_W_306_A.pdf   29    12            33.00      20.36   
+27    None  UWL_5_TWP_B_E1_W_306_A.pdf   30    92           299.92     185.05   
+28    None  UWL_5_TWP_B_E1_W_306_A.pdf   31   128           153.60      94.77   
+29    None  UWL_5_TWP_B_E1_W_306_A.pdf   32    48           142.08      87.66   
+30    None  UWL_5_TWP_B_E1_W_306_A.pdf   33    36            79.20      48.87   
+31    None  UWL_5_TWP_B_E1_W_306_A.pdf   34   270           510.30     314.86   
+32    None  UWL_5_TWP_B_E1_W_306_A.pdf   35    52           260.00     410.80   
+33    None  UWL_5_TWP_B_E1_W_306_A.pdf   36     8            64.00     101.12   
+34    None  UWL_5_TWP_B_E1_W_306_A.pdf   37    32           384.00     606.72   
+35    None  UWL_5_TWP_B_E1_W_306_A.pdf   40    12            72.00     113.76   
+36    None  UWL_5_TWP_B_E1_W_306_A.pdf   41     4            48.00     184.80   
+37    None  UWL_5_TWP_B_E1_W_306_A.pdf   42    12            78.00     123.24   
+38    None  UWL_5_TWP_B_E1_W_306_A.pdf   43     8            36.00      56.88   
+39    None  UWL_5_TWP_B_E1_W_306_A.pdf   44     2            13.00      50.05   
+40    None  UWL_5_TWP_B_E1_W_306_A.pdf   45     2            14.60      23.07   
+41    None  UWL_5_TWP_B_E1_W_306_A.pdf   46     8            92.00     145.36   
+42    None  UWL_5_TWP_B_E1_W_306_A.pdf   47    20            94.00     148.52   
+43    None  UWL_5_TWP_B_E1_W_306_A.pdf   48     4            22.00      34.76   
+44    None  UWL_5_TWP_B_E1_W_306_A.pdf   49    93            79.05      95.65   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.39             8  
+1              4.40            10  
+2              4.40            12  
+3             12.00            10  
+4              4.50            10  
+5              3.00            10  
+6             11.00            10  
+7              7.40            10  
+8              6.10            10  
+9              6.70            10  
+10             7.70            10  
+11             6.00            10  
+12             8.60            10  
+13             9.60            10  
+14             4.00            10  
+15             9.30            10  
+16             7.60            10  
+17             8.00            10  
+18            10.70            10  
+19             9.70            10  
+20            10.60            10  
+21             5.00            10  
+22             1.85            10  
+23             3.40            10  
+24             1.86            10  
+25             3.05            10  
+26             2.75            10  
+27             3.26            10  
+28             1.20            10  
+29             2.96            10  
+30             2.20            10  
+31             1.89            10  
+32             5.00            16  
+33             8.00            16  
+34            12.00            16  
+35             6.00            16  
+36            12.00            25  
+37             6.50            16  
+38             4.50            16  
+39             6.50            25  
+40             7.30            16  
+41            11.50            16  
+42             4.70            16  
+43             5.50            16  
+44             0.85            14  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_407_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_407_A.pdf    1  641          7692.00    6830.50   
+1     None  UWL_5_TWP_B_E2_D_407_A.pdf    2  291          3201.00    2842.49   
+2     None  UWL_5_TWP_B_E2_D_407_A.pdf    3  124           992.00     880.90   
+3     None  UWL_5_TWP_B_E2_D_407_A.pdf    4   65           204.75     181.82   
+4     None  UWL_5_TWP_B_E2_D_407_A.pdf    5    2            12.00      10.66   
+5     None  UWL_5_TWP_B_E2_D_407_A.pdf    6   50           500.00     444.00   
+6     None  UWL_5_TWP_B_E2_D_407_A.pdf    7   20           118.00     104.78   
+7     None  UWL_5_TWP_B_E2_D_407_A.pdf    8   12            82.80      73.53   
+8     None  UWL_5_TWP_B_E2_D_407_A.pdf    9    9            59.40      52.75   
+9     None  UWL_5_TWP_B_E2_D_407_A.pdf   10   10            76.00      67.49   
+10    None  UWL_5_TWP_B_E2_D_407_A.pdf   11   26           109.20      96.97   
+11    None  UWL_5_TWP_B_E2_D_407_A.pdf   12    4            34.40      30.55   
+12    None  UWL_5_TWP_B_E2_D_407_A.pdf   13    4            38.40      34.10   
+13    None  UWL_5_TWP_B_E2_D_407_A.pdf   14    4            34.80      30.90   
+14    None  UWL_5_TWP_B_E2_D_407_A.pdf   15    4            38.80      34.45   
+15    None  UWL_5_TWP_B_E2_D_407_A.pdf   16   14           137.20     121.83   
+16    None  UWL_5_TWP_B_E2_D_407_A.pdf   17  220          2376.00    2109.89   
+17    None  UWL_5_TWP_B_E2_D_407_A.pdf   18   18            27.90      24.78   
+18    None  UWL_5_TWP_B_E2_D_407_A.pdf   19    4            29.60      26.28   
+19    None  UWL_5_TWP_B_E2_D_407_A.pdf   20    4            33.60      29.84   
+20    None  UWL_5_TWP_B_E2_D_407_A.pdf   21   41           446.90     396.85   
+21    None  UWL_5_TWP_B_E2_D_407_A.pdf   22    3            25.50      22.64   
+22    None  UWL_5_TWP_B_E2_D_407_A.pdf   23   20           211.00     187.37   
+23    None  UWL_5_TWP_B_E2_D_407_A.pdf   24    3            28.50      25.31   
+24    None  UWL_5_TWP_B_E2_D_407_A.pdf   25  129           567.60     504.03   
+25    None  UWL_5_TWP_B_E2_D_407_A.pdf   26    7            25.90      23.00   
+26    None  UWL_5_TWP_B_E2_D_407_A.pdf   27    9            56.25      49.95   
+27    None  UWL_5_TWP_B_E2_D_407_A.pdf   28    5            31.50      27.97   
+28    None  UWL_5_TWP_B_E2_D_407_A.pdf   29    4            21.20      18.83   
+29    None  UWL_5_TWP_B_E2_D_407_A.pdf   30    9            69.75      61.94   
+30    None  UWL_5_TWP_B_E2_D_407_A.pdf   31    9            28.80      25.57   
+31    None  UWL_5_TWP_B_E2_D_407_A.pdf   32    1             4.80       4.26   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1             11.00            12  
+2              8.00            12  
+3              3.15            12  
+4              6.00            12  
+5             10.00            12  
+6              5.90            12  
+7              6.90            12  
+8              6.60            12  
+9              7.60            12  
+10             4.20            12  
+11             8.60            12  
+12             9.60            12  
+13             8.70            12  
+14             9.70            12  
+15             9.80            12  
+16            10.80            12  
+17             1.55            12  
+18             7.40            12  
+19             8.40            12  
+20            10.90            12  
+21             8.50            12  
+22            10.55            12  
+23             9.50            12  
+24             4.40            12  
+25             3.70            12  
+26             6.25            12  
+27             6.30            12  
+28             5.30            12  
+29             7.75            12  
+30             3.20            12  
+31             4.80    1212001100  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_408_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_408_A.pdf  101   601          1021.70     907.27   
+1     None  UWL_5_TWP_B_E2_D_408_A.pdf  102  1063          1753.95    1557.51   
+2     None  UWL_5_TWP_B_E2_D_408_A.pdf  103     4             8.00       7.10   
+3     None  UWL_5_TWP_B_E2_D_408_A.pdf  104     2             2.66       2.36   
+4     None  UWL_5_TWP_B_E2_D_408_A.pdf  105   529          3174.00    1253.73   
+5     None  UWL_5_TWP_B_E2_D_408_A.pdf  106    48            96.00      85.25   
+6     None  UWL_5_TWP_B_E2_D_408_A.pdf  107    18            30.60      48.35   
+7     None  UWL_5_TWP_B_E2_D_408_A.pdf  108    68           816.00    1289.28   
+8     None  UWL_5_TWP_B_E2_D_408_A.pdf  109     8            40.00      63.20   
+9     None  UWL_5_TWP_B_E2_D_408_A.pdf  110    12            72.00     113.76   
+10    None  UWL_5_TWP_B_E2_D_408_A.pdf  111    24           192.00     303.36   
+11    None  UWL_5_TWP_B_E2_D_408_A.pdf  112    14            77.00     121.66   
+12    None  UWL_5_TWP_B_E2_D_408_A.pdf  113    12            36.00      56.88   
+13    None  UWL_5_TWP_B_E2_D_408_A.pdf  114    16           144.00     227.52   
+14    None  UWL_5_TWP_B_E2_D_408_A.pdf  115     8            86.40     136.51   
+15    None  UWL_5_TWP_B_E2_D_408_A.pdf  116     4            28.00      44.24   
+16    None  UWL_5_TWP_B_E2_D_408_A.pdf  117    10            40.00      63.20   
+17    None  UWL_5_TWP_B_E2_D_408_A.pdf  118    14            28.00      44.24   
+18    None  UWL_5_TWP_B_E2_D_408_A.pdf  119    88           220.00     347.60   
+19    None  UWL_5_TWP_B_E2_D_408_A.pdf  120     4            18.00      28.44   
+20    None  UWL_5_TWP_B_E2_D_408_A.pdf  121     4            20.40      32.23   
+21    None  UWL_5_TWP_B_E2_D_408_A.pdf  122    60           210.00     331.80   
+22    None  UWL_5_TWP_B_E2_D_408_A.pdf  123     4            11.20      17.70   
+
+   Einzel Lange [m] Diameter [mm]  
+0              1.70            12  
+1              1.65            12  
+2              2.00            12  
+3              1.33            12  
+4              6.00             8  
+5              2.00            12  
+6              1.70            16  
+7             12.00            16  
+8              5.00            16  
+9              6.00            16  
+10             8.00            16  
+11             5.50            16  
+12             3.00            16  
+13             9.00            16  
+14            10.80            16  
+15             7.00            16  
+16             4.00            16  
+17             2.00            16  
+18             2.50            16  
+19             4.50            16  
+20             5.10            16  
+21             3.50            16  
+22             2.80        167422  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_409_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_409_A.pdf  201  155          1007.50     894.66   
+1     None  UWL_5_TWP_B_E2_D_409_A.pdf  202   96           864.00     767.23   
+2     None  UWL_5_TWP_B_E2_D_409_A.pdf  203  167          1670.00    1482.96   
+3     None  UWL_5_TWP_B_E2_D_409_A.pdf  204  619          7428.00    6596.06   
+4     None  UWL_5_TWP_B_E2_D_409_A.pdf  205  155          1085.00     963.48   
+5     None  UWL_5_TWP_B_E2_D_409_A.pdf  206   46           144.90     128.67   
+6     None  UWL_5_TWP_B_E2_D_409_A.pdf  207   35           196.00     174.05   
+7     None  UWL_5_TWP_B_E2_D_409_A.pdf  208   31           142.60     126.63   
+8     None  UWL_5_TWP_B_E2_D_409_A.pdf  209   66           633.60     562.64   
+9     None  UWL_5_TWP_B_E2_D_409_A.pdf  210   71           752.60     668.31   
+10    None  UWL_5_TWP_B_E2_D_409_A.pdf  211   11            88.00      78.14   
+11    None  UWL_5_TWP_B_E2_D_409_A.pdf  212   14           102.20      90.75   
+12    None  UWL_5_TWP_B_E2_D_409_A.pdf  213   14           116.20     103.19   
+13    None  UWL_5_TWP_B_E2_D_409_A.pdf  214   10            27.00      23.98   
+14    None  UWL_5_TWP_B_E2_D_409_A.pdf  215   10            17.00      15.10   
+15    None  UWL_5_TWP_B_E2_D_409_A.pdf  216   20            31.00      27.53   
+16    None  UWL_5_TWP_B_E2_D_409_A.pdf  217    5            58.50      51.95   
+17    None  UWL_5_TWP_B_E2_D_409_A.pdf  218    5            31.00      27.53   
+18    None  UWL_5_TWP_B_E2_D_409_A.pdf  219    5            58.00      51.50   
+19    None  UWL_5_TWP_B_E2_D_409_A.pdf  220    5            34.00      30.19   
+20    None  UWL_5_TWP_B_E2_D_409_A.pdf  221    5            52.00      46.18   
+21    None  UWL_5_TWP_B_E2_D_409_A.pdf  222    5            57.00      50.62   
+22    None  UWL_5_TWP_B_E2_D_409_A.pdf  223    5            59.00      52.39   
+23    None  UWL_5_TWP_B_E2_D_409_A.pdf  224   78           351.00     311.69   
+24    None  UWL_5_TWP_B_E2_D_409_A.pdf  225  150           900.00     799.20   
+25    None  UWL_5_TWP_B_E2_D_409_A.pdf  226   48           523.20     464.60   
+26    None  UWL_5_TWP_B_E2_D_409_A.pdf  227   79           434.50     385.84   
+27    None  UWL_5_TWP_B_E2_D_409_A.pdf  228   25           263.75     234.21   
+28    None  UWL_5_TWP_B_E2_D_409_A.pdf  229    3            22.20      19.71   
+29    None  UWL_5_TWP_B_E2_D_409_A.pdf  230    4            33.60      29.84   
+30    None  UWL_5_TWP_B_E2_D_409_A.pdf  231  248          2678.40    2378.42   
+31    None  UWL_5_TWP_B_E2_D_409_A.pdf  232   47           517.00     459.10   
+32    None  UWL_5_TWP_B_E2_D_409_A.pdf  233   69           303.60     269.60   
+33    None  UWL_5_TWP_B_E2_D_409_A.pdf  234   68           367.20     326.07   
+34    None  UWL_5_TWP_B_E2_D_409_A.pdf  235    9            53.10      47.15   
+35    None  UWL_5_TWP_B_E2_D_409_A.pdf  236    9            33.30      29.57   
+36    None  UWL_5_TWP_B_E2_D_409_A.pdf  237   10            62.50      55.50   
+37    None  UWL_5_TWP_B_E2_D_409_A.pdf  238   10            77.50      68.82   
+38    None  UWL_5_TWP_B_E2_D_409_A.pdf  239   10            32.00      28.42   
+39    None  UWL_5_TWP_B_E2_D_409_A.pdf  240   12            63.60      56.48   
+40    None  UWL_5_TWP_B_E2_D_409_A.pdf  241   11            69.30      61.54   
+41    None  UWL_5_TWP_B_E2_D_409_A.pdf  242   13           144.30     128.14   
+42    None  UWL_5_TWP_B_E2_D_409_A.pdf  243   56           196.00     174.05   
+43    None  UWL_5_TWP_B_E2_D_409_A.pdf  244  210           882.00    2178.54   
+44    None  UWL_5_TWP_B_E2_D_409_A.pdf  245   40           144.00     227.52   
+45    None  UWL_5_TWP_B_E2_D_409_A.pdf  246   84           361.20     892.16   
+46    None  UWL_5_TWP_B_E2_D_409_A.pdf  247   15            49.50      78.21   
+47    None  UWL_5_TWP_B_E2_D_409_A.pdf  248   16            54.40     134.37   
+48    None  UWL_5_TWP_B_E2_D_409_A.pdf  249   12            28.20      17.40   
+49    None  UWL_5_TWP_B_E2_D_409_A.pdf  250   12            27.60      17.03   
+50    None  UWL_5_TWP_B_E2_D_409_A.pdf  251    4             9.80      24.21   
+51    None  UWL_5_TWP_B_E2_D_409_A.pdf  252   48           220.80     545.38   
+52    None  UWL_5_TWP_B_E2_D_409_A.pdf  253   36           104.40      64.41   
+53    None  UWL_5_TWP_B_E2_D_409_A.pdf  254   12            32.40      39.20   
+54    None  UWL_5_TWP_B_E2_D_409_A.pdf  255   38           129.20     204.14   
+55    None  UWL_5_TWP_B_E2_D_409_A.pdf  256  134           469.00     185.26   
+56    None  UWL_5_TWP_B_E2_D_409_A.pdf  257   14            35.00      42.35   
+57    None  UWL_5_TWP_B_E2_D_409_A.pdf  258    3            10.80      17.06   
+58    None  UWL_5_TWP_B_E2_D_409_A.pdf  259    4            10.80      26.68   
+
+   Einzel Lange [m] Diameter [mm]  
+0              6.50            12  
+1              9.00            12  
+2             10.00            12  
+3             12.00            12  
+4              7.00            12  
+5              3.15            12  
+6              5.60            12  
+7              4.60            12  
+8              9.60            12  
+9             10.60            12  
+10             8.00            12  
+11             7.30            12  
+12             8.30            12  
+13             2.70            12  
+14             1.70            12  
+15             1.55            12  
+16            11.70            12  
+17             6.20            12  
+18            11.60            12  
+19             6.80            12  
+20            10.40            12  
+21            11.40            12  
+22            11.80            12  
+23             4.50            12  
+24             6.00            12  
+25            10.90            12  
+26             5.50            12  
+27            10.55            12  
+28             7.40            12  
+29             8.40            12  
+30            10.80            12  
+31            11.00            12  
+32             4.40            12  
+33             5.40            12  
+34             5.90            12  
+35             3.70            12  
+36             6.25            12  
+37             7.75            12  
+38             3.20            12  
+39             5.30            12  
+40             6.30            12  
+41            11.10            12  
+42             3.50            12  
+43             4.20            20  
+44             3.60            16  
+45             4.30            20  
+46             3.30            16  
+47             3.40            20  
+48             2.35            10  
+49             2.30            10  
+50             2.45            20  
+51             4.60            20  
+52             2.90            10  
+53             2.70            14  
+54             3.40            16  
+55             3.50             8  
+56             2.50            14  
+57             3.60            16  
+58             2.70      20650900  
+Data inserted successfully into table Stabliste - Biegeformen table.
+No matches found in the PDF file.
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_410_A.pdf:
+Empty DataFrame
+Columns: [Pos., Stck, Gesamt Lange [m], Masse [kg], Einzel Lange [m], Diameter [mm]]
+Index: []
+No data found in UWL_5_TWP_B_E2_D_410_A.pdf, skipping.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_411_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_411_A.pdf    1  401          4812.00    4273.06   
+1     None  UWL_5_TWP_B_E2_D_411_A.pdf    2  222          1332.00    1182.82   
+2     None  UWL_5_TWP_B_E2_D_411_A.pdf    3  131          1441.00    1279.61   
+3     None  UWL_5_TWP_B_E2_D_411_A.pdf    4   68           503.20     446.84   
+4     None  UWL_5_TWP_B_E2_D_411_A.pdf    5   81           680.40     604.20   
+5     None  UWL_5_TWP_B_E2_D_411_A.pdf    6   53           439.90     390.63   
+6     None  UWL_5_TWP_B_E2_D_411_A.pdf    7   54           394.20     350.05   
+7     None  UWL_5_TWP_B_E2_D_411_A.pdf    8   10            92.00      81.70   
+8     None  UWL_5_TWP_B_E2_D_411_A.pdf    9    9            91.80      81.52   
+9     None  UWL_5_TWP_B_E2_D_411_A.pdf   10    4            17.60      15.63   
+10    None  UWL_5_TWP_B_E2_D_411_A.pdf   11    7            37.80      33.57   
+11    None  UWL_5_TWP_B_E2_D_411_A.pdf   12   11           103.40      91.82   
+12    None  UWL_5_TWP_B_E2_D_411_A.pdf   13    8            12.80      11.37   
+13    None  UWL_5_TWP_B_E2_D_411_A.pdf   14    3            19.20      17.05   
+14    None  UWL_5_TWP_B_E2_D_411_A.pdf   15   10            89.00      79.03   
+15    None  UWL_5_TWP_B_E2_D_411_A.pdf   16    5            50.50      44.84   
+16    None  UWL_5_TWP_B_E2_D_411_A.pdf   17    5            18.25      16.21   
+17    None  UWL_5_TWP_B_E2_D_411_A.pdf   18  131          1034.90     918.99   
+18    None  UWL_5_TWP_B_E2_D_411_A.pdf   19   65           552.50     490.62   
+19    None  UWL_5_TWP_B_E2_D_411_A.pdf   20   66           495.00     439.56   
+20    None  UWL_5_TWP_B_E2_D_411_A.pdf   21    5            36.00      31.97   
+21    None  UWL_5_TWP_B_E2_D_411_A.pdf   22    6            49.20      43.69   
+22    None  UWL_5_TWP_B_E2_D_411_A.pdf   23   20           105.00      93.24   
+23    None  UWL_5_TWP_B_E2_D_411_A.pdf   24    8            50.00      44.40   
+24    None  UWL_5_TWP_B_E2_D_411_A.pdf   25    3            26.40      23.44   
+25    None  UWL_5_TWP_B_E2_D_411_A.pdf   26    2            15.60      13.85   
+26    None  UWL_5_TWP_B_E2_D_411_A.pdf   27    2            20.80      18.47   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              6.00            12  
+2             11.00            12  
+3              7.40            12  
+4              8.40            12  
+5              8.30            12  
+6              7.30            12  
+7              9.20            12  
+8             10.20            12  
+9              4.40            12  
+10             5.40            12  
+11             9.40            12  
+12             1.60            12  
+13             6.40            12  
+14             8.90            12  
+15            10.10            12  
+16             3.65            12  
+17             7.90            12  
+18             8.50            12  
+19             7.50            12  
+20             7.20            12  
+21             8.20            12  
+22             5.25            12  
+23             6.25            12  
+24             8.80            12  
+25             7.80            12  
+26            10.40        121200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_412_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_412_A.pdf  101  470           799.00     709.51   
+1     None  UWL_5_TWP_B_E2_D_412_A.pdf  102  456           752.40     668.13   
+2     None  UWL_5_TWP_B_E2_D_412_A.pdf  103    6             9.24       8.21   
+3     None  UWL_5_TWP_B_E2_D_412_A.pdf  104  141           846.00     334.17   
+4     None  UWL_5_TWP_B_E2_D_412_A.pdf  105  212          1060.00     418.70   
+5     None  UWL_5_TWP_B_E2_D_412_A.pdf  106   28            56.00      49.73   
+6     None  UWL_5_TWP_B_E2_D_412_A.pdf  107   20            34.00      53.72   
+7     None  UWL_5_TWP_B_E2_D_412_A.pdf  108   44           528.00     834.24   
+8     None  UWL_5_TWP_B_E2_D_412_A.pdf  109    8            40.00      63.20   
+9     None  UWL_5_TWP_B_E2_D_412_A.pdf  110    8            64.00     101.12   
+10    None  UWL_5_TWP_B_E2_D_412_A.pdf  111   12            36.00      56.88   
+11    None  UWL_5_TWP_B_E2_D_412_A.pdf  112   12           108.00     170.64   
+12    None  UWL_5_TWP_B_E2_D_412_A.pdf  113   30            75.00     118.50   
+13    None  UWL_5_TWP_B_E2_D_412_A.pdf  114    4            12.80      20.22   
+14    None  UWL_5_TWP_B_E2_D_412_A.pdf  115    4            24.00      37.92   
+15    None  UWL_5_TWP_B_E2_D_412_A.pdf  116    4            40.00      63.20   
+16    None  UWL_5_TWP_B_E2_D_412_A.pdf  117    4            20.40      32.23   
+17    None  UWL_5_TWP_B_E2_D_412_A.pdf  118   20            60.00      94.80   
+18    None  UWL_5_TWP_B_E2_D_412_A.pdf  119   16            56.00      88.48   
+19    None  UWL_5_TWP_B_E2_D_412_A.pdf  120    4            17.60      27.81   
+20    None  UWL_5_TWP_B_E2_D_412_A.pdf  121    6            27.00      42.66   
+21    None  UWL_5_TWP_B_E2_D_412_A.pdf  122    4            16.00      25.28   
+
+   Einzel Lange [m] Diameter [mm]  
+0              1.70            12  
+1              1.65            12  
+2              1.54            12  
+3              6.00             8  
+4              5.00             8  
+5              2.00            12  
+6              1.70            16  
+7             12.00            16  
+8              5.00            16  
+9              8.00            16  
+10             3.00            16  
+11             9.00            16  
+12             2.50            16  
+13             3.20            16  
+14             6.00            16  
+15            10.00            16  
+16             5.10            16  
+17             3.00            16  
+18             3.50            16  
+19             4.40            16  
+20             4.50            16  
+21             4.00        167422  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_413_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_413_A.pdf  201  442          5304.00    4709.95   
+1     None  UWL_5_TWP_B_E2_D_413_A.pdf  202   60           216.00     191.81   
+2     None  UWL_5_TWP_B_E2_D_413_A.pdf  203   59           153.40     136.22   
+3     None  UWL_5_TWP_B_E2_D_413_A.pdf  204   63           611.10     542.66   
+4     None  UWL_5_TWP_B_E2_D_413_A.pdf  205   63           674.10     598.60   
+5     None  UWL_5_TWP_B_E2_D_413_A.pdf  206   85           595.00     528.36   
+6     None  UWL_5_TWP_B_E2_D_413_A.pdf  207  138           607.20     539.19   
+7     None  UWL_5_TWP_B_E2_D_413_A.pdf  208   43           146.20     129.83   
+8     None  UWL_5_TWP_B_E2_D_413_A.pdf  209    7            65.10      57.81   
+9     None  UWL_5_TWP_B_E2_D_413_A.pdf  210   11            68.20      60.56   
+10    None  UWL_5_TWP_B_E2_D_413_A.pdf  211   11            79.20      70.33   
+11    None  UWL_5_TWP_B_E2_D_413_A.pdf  212    5            41.50      36.85   
+12    None  UWL_5_TWP_B_E2_D_413_A.pdf  213   85           297.50     264.18   
+13    None  UWL_5_TWP_B_E2_D_413_A.pdf  214    5            22.50      19.98   
+14    None  UWL_5_TWP_B_E2_D_413_A.pdf  215   32           348.80     309.73   
+15    None  UWL_5_TWP_B_E2_D_413_A.pdf  216   31           306.90     272.53   
+16    None  UWL_5_TWP_B_E2_D_413_A.pdf  217   10            94.00      83.47   
+17    None  UWL_5_TWP_B_E2_D_413_A.pdf  218   10            16.00      14.21   
+18    None  UWL_5_TWP_B_E2_D_413_A.pdf  219    3            12.00      10.66   
+19    None  UWL_5_TWP_B_E2_D_413_A.pdf  220    4            12.00      10.66   
+20    None  UWL_5_TWP_B_E2_D_413_A.pdf  221   13           116.35     103.32   
+21    None  UWL_5_TWP_B_E2_D_413_A.pdf  222    6            60.60      53.81   
+22    None  UWL_5_TWP_B_E2_D_413_A.pdf  223    6            21.90      19.45   
+23    None  UWL_5_TWP_B_E2_D_413_A.pdf  224  157          1727.00    1533.58   
+24    None  UWL_5_TWP_B_E2_D_413_A.pdf  225  193          1737.00    1542.46   
+25    None  UWL_5_TWP_B_E2_D_413_A.pdf  226   97           523.80     465.13   
+26    None  UWL_5_TWP_B_E2_D_413_A.pdf  227    7            37.10      32.94   
+27    None  UWL_5_TWP_B_E2_D_413_A.pdf  228    6            37.80      33.57   
+28    None  UWL_5_TWP_B_E2_D_413_A.pdf  229   27           141.75     125.87   
+29    None  UWL_5_TWP_B_E2_D_413_A.pdf  230   78           195.00     173.16   
+30    None  UWL_5_TWP_B_E2_D_413_A.pdf  231    3            19.50      17.32   
+31    None  UWL_5_TWP_B_E2_D_413_A.pdf  232    2            11.00       9.77   
+32    None  UWL_5_TWP_B_E2_D_413_A.pdf  233   10            62.50      55.50   
+33    None  UWL_5_TWP_B_E2_D_413_A.pdf  234    7            59.50      52.84   
+34    None  UWL_5_TWP_B_E2_D_413_A.pdf  235    6            45.00      39.96   
+35    None  UWL_5_TWP_B_E2_D_413_A.pdf  236   13           109.20      96.97   
+36    None  UWL_5_TWP_B_E2_D_413_A.pdf  237    2            13.80      12.25   
+37    None  UWL_5_TWP_B_E2_D_413_A.pdf  238    3            17.70      15.72   
+38    None  UWL_5_TWP_B_E2_D_413_A.pdf  239    5            51.25      45.51   
+39    None  UWL_5_TWP_B_E2_D_413_A.pdf  240   84           352.80     871.42   
+40    None  UWL_5_TWP_B_E2_D_413_A.pdf  241   46           197.80     488.57   
+41    None  UWL_5_TWP_B_E2_D_413_A.pdf  242  132           462.00     285.05   
+42    None  UWL_5_TWP_B_E2_D_413_A.pdf  243   62           192.20     170.67   
+43    None  UWL_5_TWP_B_E2_D_413_A.pdf  244   72           252.00     398.16   
+44    None  UWL_5_TWP_B_E2_D_413_A.pdf  245   16            51.20      80.90   
+45    None  UWL_5_TWP_B_E2_D_413_A.pdf  246   14            70.00      43.19   
+46    None  UWL_5_TWP_B_E2_D_413_A.pdf  247   21            60.90      37.58   
+47    None  UWL_5_TWP_B_E2_D_413_A.pdf  248    5            11.50       7.10   
+48    None  UWL_5_TWP_B_E2_D_413_A.pdf  249    6            13.50       8.33   
+49    None  UWL_5_TWP_B_E2_D_413_A.pdf  250    9            25.20      15.55   
+50    None  UWL_5_TWP_B_E2_D_413_A.pdf  251    3             8.40       7.46   
+51    None  UWL_5_TWP_B_E2_D_413_A.pdf  252    6            12.00      10.66   
+52    None  UWL_5_TWP_B_E2_D_413_A.pdf  253    6            14.40       8.88   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              3.60            12  
+2              2.60            12  
+3              9.70            12  
+4             10.70            12  
+5              7.00            12  
+6              4.40            12  
+7              3.40            12  
+8              9.30            12  
+9              6.20            12  
+10             7.20            12  
+11             8.30            12  
+12             3.50            12  
+13             4.50            12  
+14            10.90            12  
+15             9.90            12  
+16             9.40            12  
+17             1.60            12  
+18             4.00            12  
+19             3.00            12  
+20             8.95            12  
+21            10.10            12  
+22             3.65            12  
+23            11.00            12  
+24             9.00            12  
+25             5.40            12  
+26             5.30            12  
+27             6.30            12  
+28             5.25            12  
+29             2.50            12  
+30             6.50            12  
+31             5.50            12  
+32             6.25            12  
+33             8.50            12  
+34             7.50            12  
+35             8.40            12  
+36             6.90            12  
+37             5.90            12  
+38            10.25            12  
+39             4.20            20  
+40             4.30            20  
+41             3.50            10  
+42             3.10            12  
+43             3.50            16  
+44             3.20            16  
+45             5.00            10  
+46             2.90            10  
+47             2.30            10  
+48             2.25            10  
+49             2.80            10  
+50             2.80            12  
+51             2.00            12  
+52             2.40        101200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_D_414_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_D_414_A.pdf    1   35           136.50     121.21   
+1     None  UWL_5_TWP_B_E2_D_414_A.pdf    2    8            24.80      22.02   
+2     None  UWL_5_TWP_B_E2_D_414_A.pdf    3   53           166.95     148.25   
+3     None  UWL_5_TWP_B_E2_D_414_A.pdf    4   16            37.60      33.39   
+4     None  UWL_5_TWP_B_E2_D_414_A.pdf    5   40           140.00     124.32   
+5     None  UWL_5_TWP_B_E2_D_414_A.pdf    6    8            21.20      18.83   
+6     None  UWL_5_TWP_B_E2_D_414_A.pdf    7   30            84.00      74.59   
+7     None  UWL_5_TWP_B_E2_D_414_A.pdf    8    8            15.60      13.85   
+8     None  UWL_5_TWP_B_E2_D_414_A.pdf    9   30            81.00      71.93   
+9     None  UWL_5_TWP_B_E2_D_414_A.pdf   10    8            14.80      13.14   
+10    None  UWL_5_TWP_B_E2_D_414_A.pdf   11  117           193.05     171.43   
+11    None  UWL_5_TWP_B_E2_D_414_A.pdf   12  133           212.80     188.97   
+12    None  UWL_5_TWP_B_E2_D_414_A.pdf   13    8            28.40      44.87   
+13    None  UWL_5_TWP_B_E2_D_414_A.pdf   14   24            72.00     113.76   
+14    None  UWL_5_TWP_B_E2_D_414_A.pdf   15    8            24.00      37.92   
+15    None  UWL_5_TWP_B_E2_D_414_A.pdf   16   12            24.00      37.92   
+16    None  UWL_5_TWP_B_E2_D_414_A.pdf   17    8            36.00      56.88   
+17    None  UWL_5_TWP_B_E2_D_414_A.pdf   18    8            22.40      35.39   
+18    None  UWL_5_TWP_B_E2_D_414_A.pdf   19    8            32.80      51.82   
+19    None  UWL_5_TWP_B_E2_D_414_A.pdf   20   16            28.80      45.50   
+20    None  UWL_5_TWP_B_E2_D_414_A.pdf   21    8            26.40      41.71   
+
+   Einzel Lange [m]                     Diameter [mm]  
+0              3.90                                12  
+1              3.10                                12  
+2              3.15                                12  
+3              2.35                                12  
+4              3.50                                12  
+5              2.65                                12  
+6              2.80                                12  
+7              1.95                                12  
+8              2.70                                12  
+9              1.85                                12  
+10             1.65                                12  
+11             1.60                                12  
+12             3.55                                16  
+13             3.00                                16  
+14             3.00                                16  
+15             2.00                                16  
+16             4.50                                16  
+17             2.80                                16  
+18             4.10                                16  
+19             1.80                                16  
+20             3.30  16390310315235350265280195270185  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_S_401_A.pdf:
+  plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_E2_S_401_A.pdf    1   76           285.00     450.30   
+1    None  UWL_5_TWP_B_E2_S_401_A.pdf    2    4            15.00      13.32   
+2    None  UWL_5_TWP_B_E2_S_401_A.pdf    3    4            15.00      23.70   
+3    None  UWL_5_TWP_B_E2_S_401_A.pdf    4  136           184.96     114.12   
+4    None  UWL_5_TWP_B_E2_S_401_A.pdf    5  442           777.92     479.98   
+5    None  UWL_5_TWP_B_E2_S_401_A.pdf    6   56           104.16      64.27   
+6    None  UWL_5_TWP_B_E2_S_401_A.pdf    7   56            88.48      34.95   
+7    None  UWL_5_TWP_B_E2_S_401_A.pdf    8   24            49.44      30.50   
+
+  Einzel Lange [m] Diameter [mm]  
+0             3.75            16  
+1             3.75            12  
+2             3.75            16  
+3             1.36            10  
+4             1.76            10  
+5             1.86            10  
+6             1.58             8  
+7             2.06      10375375  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 97.06%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_W_402_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_W_402_A.pdf    1  540           216.00      85.32   
+1     None  UWL_5_TWP_B_E2_W_402_A.pdf    2  520           260.00     102.70   
+2     None  UWL_5_TWP_B_E2_W_402_A.pdf    3   10             3.20       1.26   
+3     None  UWL_5_TWP_B_E2_W_402_A.pdf    4   25             9.75       3.85   
+4     None  UWL_5_TWP_B_E2_W_402_A.pdf    5   10             4.90       1.94   
+..     ...                         ...  ...  ...              ...        ...   
+61    None  UWL_5_TWP_B_E2_W_402_A.pdf   64    4            15.00      57.75   
+62    None  UWL_5_TWP_B_E2_W_402_A.pdf   65    2             6.50      10.27   
+63    None  UWL_5_TWP_B_E2_W_402_A.pdf   66   12            21.60      34.13   
+64    None  UWL_5_TWP_B_E2_W_402_A.pdf   67    2             7.00      11.06   
+65    None  UWL_5_TWP_B_E2_W_402_A.pdf   68    4            15.00      13.32   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.32             8  
+3              0.39             8  
+4              0.49             8  
+..              ...           ...  
+61             3.75            25  
+62             3.25            16  
+63             1.80            16  
+64             3.50            16  
+65             3.75            12  
+
+[66 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_W_403_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_W_403_A.pdf    1  480           192.00      75.84   
+1     None  UWL_5_TWP_B_E2_W_403_A.pdf    2   20            10.00       3.95   
+2     None  UWL_5_TWP_B_E2_W_403_A.pdf    3  220            85.80      33.89   
+3     None  UWL_5_TWP_B_E2_W_403_A.pdf    4   40            11.60       4.58   
+4     None  UWL_5_TWP_B_E2_W_403_A.pdf    5  639          2268.45    1399.63   
+5     None  UWL_5_TWP_B_E2_W_403_A.pdf    6   22            72.60      44.79   
+6     None  UWL_5_TWP_B_E2_W_403_A.pdf    7    6            17.40      10.74   
+7     None  UWL_5_TWP_B_E2_W_403_A.pdf    8  127           571.50     352.62   
+8     None  UWL_5_TWP_B_E2_W_403_A.pdf    9  129           193.50     119.39   
+9     None  UWL_5_TWP_B_E2_W_403_A.pdf   10   70           840.00     518.28   
+10    None  UWL_5_TWP_B_E2_W_403_A.pdf   11  116           864.20     533.21   
+11    None  UWL_5_TWP_B_E2_W_403_A.pdf   12   18            76.50      47.20   
+12    None  UWL_5_TWP_B_E2_W_403_A.pdf   13   14           148.40      91.56   
+13    None  UWL_5_TWP_B_E2_W_403_A.pdf   14   14           113.40      69.97   
+14    None  UWL_5_TWP_B_E2_W_403_A.pdf   15   13            40.30      24.87   
+15    None  UWL_5_TWP_B_E2_W_403_A.pdf   16   70           301.00     185.72   
+16    None  UWL_5_TWP_B_E2_W_403_A.pdf   17   18            54.00      33.32   
+17    None  UWL_5_TWP_B_E2_W_403_A.pdf   18   88           642.40     396.36   
+18    None  UWL_5_TWP_B_E2_W_403_A.pdf   19   40           104.00      64.17   
+19    None  UWL_5_TWP_B_E2_W_403_A.pdf   20  245           465.50     287.21   
+20    None  UWL_5_TWP_B_E2_W_403_A.pdf   21   31            40.30      24.87   
+21    None  UWL_5_TWP_B_E2_W_403_A.pdf   22  300           555.00     342.44   
+22    None  UWL_5_TWP_B_E2_W_403_A.pdf   23   26            63.70      39.30   
+23    None  UWL_5_TWP_B_E2_W_403_A.pdf   24   13            16.25      10.03   
+24    None  UWL_5_TWP_B_E2_W_403_A.pdf   25   26            52.00      32.08   
+25    None  UWL_5_TWP_B_E2_W_403_A.pdf   26   40            78.00      48.13   
+26    None  UWL_5_TWP_B_E2_W_403_A.pdf   27   80           158.40      62.57   
+27    None  UWL_5_TWP_B_E2_W_403_A.pdf   28   45            99.00      61.08   
+28    None  UWL_5_TWP_B_E2_W_403_A.pdf   29   41            55.35      34.15   
+29    None  UWL_5_TWP_B_E2_W_403_A.pdf   30   44            47.52      29.32   
+30    None  UWL_5_TWP_B_E2_W_403_A.pdf   31   40            48.00      29.62   
+31    None  UWL_5_TWP_B_E2_W_403_A.pdf   32    7            12.88       7.95   
+32    None  UWL_5_TWP_B_E2_W_403_A.pdf   33   20            58.00      35.79   
+33    None  UWL_5_TWP_B_E2_W_403_A.pdf   34   58           124.70      76.94   
+34    None  UWL_5_TWP_B_E2_W_403_A.pdf   35  127           228.60     141.05   
+35    None  UWL_5_TWP_B_E2_W_403_A.pdf   36   12            19.80      12.22   
+36    None  UWL_5_TWP_B_E2_W_403_A.pdf   37  127           177.80     109.70   
+37    None  UWL_5_TWP_B_E2_W_403_A.pdf   38    9            14.85       9.16   
+38    None  UWL_5_TWP_B_E2_W_403_A.pdf   39    6             9.00      14.22   
+39    None  UWL_5_TWP_B_E2_W_403_A.pdf   40    8            20.00      31.60   
+40    None  UWL_5_TWP_B_E2_W_403_A.pdf   41   64           240.00     379.20   
+41    None  UWL_5_TWP_B_E2_W_403_A.pdf   42    4             6.80      10.74   
+42    None  UWL_5_TWP_B_E2_W_403_A.pdf   43    6            21.60      34.13   
+43    None  UWL_5_TWP_B_E2_W_403_A.pdf   44   16            19.20      30.34   
+44    None  UWL_5_TWP_B_E2_W_403_A.pdf   45    4            11.60      18.33   
+45    None  UWL_5_TWP_B_E2_W_403_A.pdf   46    6            27.00      42.66   
+46    None  UWL_5_TWP_B_E2_W_403_A.pdf   47   10            45.50      71.89   
+47    None  UWL_5_TWP_B_E2_W_403_A.pdf   48    2             4.00       6.32   
+48    None  UWL_5_TWP_B_E2_W_403_A.pdf   49    1            12.00      10.66   
+49    None  UWL_5_TWP_B_E2_W_403_A.pdf   50    1             4.50       4.00   
+50    None  UWL_5_TWP_B_E2_W_403_A.pdf   51    3             6.00       9.48   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.39             8  
+3              0.29             8  
+4              3.55            10  
+5              3.30            10  
+6              2.90            10  
+7              4.50            10  
+8              1.50            10  
+9             12.00            10  
+10             7.45            10  
+11             4.25            10  
+12            10.60            10  
+13             8.10            10  
+14             3.10            10  
+15             4.30            10  
+16             3.00            10  
+17             7.30            10  
+18             2.60            10  
+19             1.90            10  
+20             1.30            10  
+21             1.85            10  
+22             2.45            10  
+23             1.25            10  
+24             2.00            10  
+25             1.95            10  
+26             1.98             8  
+27             2.20            10  
+28             1.35            10  
+29             1.08            10  
+30             1.20            10  
+31             1.84            10  
+32             2.90            10  
+33             2.15            10  
+34             1.80            10  
+35             1.65            10  
+36             1.40            10  
+37             1.65            10  
+38             1.50            16  
+39             2.50            16  
+40             3.75            16  
+41             1.70            16  
+42             3.60            16  
+43             1.20            16  
+44             2.90            16  
+45             4.50            16  
+46             4.55            16  
+47             2.00            16  
+48            12.00            12  
+49             4.50            12  
+50             2.00            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 98.61%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_W_404_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_W_404_A.pdf    1  420           168.00      66.36   
+1     None  UWL_5_TWP_B_E2_W_404_A.pdf    2   20            10.00       3.95   
+2     None  UWL_5_TWP_B_E2_W_404_A.pdf    3  480           187.20      73.94   
+3     None  UWL_5_TWP_B_E2_W_404_A.pdf    4  150            43.50      17.18   
+4     None  UWL_5_TWP_B_E2_W_404_A.pdf    5  676          2399.80    1480.68   
+..     ...                         ...  ...  ...              ...        ...   
+66    None  UWL_5_TWP_B_E2_W_404_A.pdf   68    2             8.20       7.28   
+67    None  UWL_5_TWP_B_E2_W_404_A.pdf   69    4             6.40       5.68   
+68    None  UWL_5_TWP_B_E2_W_404_A.pdf   70    1             4.90       4.35   
+69    None  UWL_5_TWP_B_E2_W_404_A.pdf   71    2             4.70       4.17   
+70    None  UWL_5_TWP_B_E2_W_404_A.pdf   72    2             3.64       3.23   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.50             8  
+2              0.39             8  
+3              0.29             8  
+4              3.55            10  
+..              ...           ...  
+66             4.10            12  
+67             1.60            12  
+68             4.90            12  
+69             2.35            12  
+70             1.82            12  
+
+[71 rows x 8 columns]
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_W_405_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_W_405_A.pdf    1  430           172.00      67.94   
+1     None  UWL_5_TWP_B_E2_W_405_A.pdf    2   15             5.85       2.31   
+2     None  UWL_5_TWP_B_E2_W_405_A.pdf    3  308          1093.40     674.63   
+3     None  UWL_5_TWP_B_E2_W_405_A.pdf    4  140           595.00     367.12   
+4     None  UWL_5_TWP_B_E2_W_405_A.pdf    5   36            84.60      52.20   
+5     None  UWL_5_TWP_B_E2_W_405_A.pdf    6  116           864.20     533.21   
+6     None  UWL_5_TWP_B_E2_W_405_A.pdf    7   18           131.40      81.07   
+7     None  UWL_5_TWP_B_E2_W_405_A.pdf    8   74           207.20     127.84   
+8     None  UWL_5_TWP_B_E2_W_405_A.pdf    9   40           226.00     139.44   
+9     None  UWL_5_TWP_B_E2_W_405_A.pdf   10   18           137.70      84.96   
+10    None  UWL_5_TWP_B_E2_W_405_A.pdf   11   80           176.00     108.59   
+11    None  UWL_5_TWP_B_E2_W_405_A.pdf   12  265           503.50     310.66   
+12    None  UWL_5_TWP_B_E2_W_405_A.pdf   13  123           159.90      98.66   
+13    None  UWL_5_TWP_B_E2_W_405_A.pdf   14  202           373.70     230.57   
+14    None  UWL_5_TWP_B_E2_W_405_A.pdf   15   37            90.65      55.93   
+15    None  UWL_5_TWP_B_E2_W_405_A.pdf   16   17            21.42      13.22   
+16    None  UWL_5_TWP_B_E2_W_405_A.pdf   17   98           186.20     114.89   
+17    None  UWL_5_TWP_B_E2_W_405_A.pdf   18    3             2.16       0.85   
+18    None  UWL_5_TWP_B_E2_W_405_A.pdf   19    3             4.95       3.05   
+19    None  UWL_5_TWP_B_E2_W_405_A.pdf   20    3             3.06       1.21   
+20    None  UWL_5_TWP_B_E2_W_405_A.pdf   21   20            24.00      14.81   
+21    None  UWL_5_TWP_B_E2_W_405_A.pdf   22   20            22.80      14.07   
+22    None  UWL_5_TWP_B_E2_W_405_A.pdf   23   13            50.05      30.88   
+23    None  UWL_5_TWP_B_E2_W_405_A.pdf   24   32            59.20      36.53   
+24    None  UWL_5_TWP_B_E2_W_405_A.pdf   25   16            71.20     112.50   
+25    None  UWL_5_TWP_B_E2_W_405_A.pdf   26    2             6.00       9.48   
+26    None  UWL_5_TWP_B_E2_W_405_A.pdf   27    2             5.80       9.16   
+27    None  UWL_5_TWP_B_E2_W_405_A.pdf   28    4             8.80       7.81   
+28    None  UWL_5_TWP_B_E2_W_405_A.pdf   29   30           112.50     177.75   
+29    None  UWL_5_TWP_B_E2_W_405_A.pdf   30    2            10.00      15.80   
+30    None  UWL_5_TWP_B_E2_W_405_A.pdf   31    2             3.40       5.37   
+31    None  UWL_5_TWP_B_E2_W_405_A.pdf   32    4            18.00      28.44   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.40             8  
+1              0.39             8  
+2              3.55            10  
+3              4.25            10  
+4              2.35            10  
+5              7.45            10  
+6              7.30            10  
+7              2.80            10  
+8              5.65            10  
+9              7.65            10  
+10             2.20            10  
+11             1.90            10  
+12             1.30            10  
+13             1.85            10  
+14             2.45            10  
+15             1.26            10  
+16             1.90            10  
+17             0.72             8  
+18             1.65            10  
+19             1.02             8  
+20             1.20            10  
+21             1.14            10  
+22             3.85            10  
+23             1.85            10  
+24             4.45            16  
+25             3.00            16  
+26             2.90            16  
+27             2.20            12  
+28             3.75            16  
+29             5.00            16  
+30             1.70            16  
+31             4.50            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 92.73%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_E2_W_406_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_E2_W_406_A.pdf    1  1680           655.20     258.80   
+1     None  UWL_5_TWP_B_E2_W_406_A.pdf    2   600           174.00      68.73   
+2     None  UWL_5_TWP_B_E2_W_406_A.pdf    3   294          1323.00     816.29   
+3     None  UWL_5_TWP_B_E2_W_406_A.pdf    4   256           908.80     560.73   
+4     None  UWL_5_TWP_B_E2_W_406_A.pdf    5  1672          2508.00    1547.44   
+5     None  UWL_5_TWP_B_E2_W_406_A.pdf    6    92           211.60     130.56   
+6     None  UWL_5_TWP_B_E2_W_406_A.pdf    7   104           338.00     208.55   
+7     None  UWL_5_TWP_B_E2_W_406_A.pdf    8   492          5904.00    3642.77   
+8     None  UWL_5_TWP_B_E2_W_406_A.pdf    9    56           168.00     103.66   
+9     None  UWL_5_TWP_B_E2_W_406_A.pdf   10    78           858.00     529.39   
+10    None  UWL_5_TWP_B_E2_W_406_A.pdf   11    14           103.60      63.92   
+11    None  UWL_5_TWP_B_E2_W_406_A.pdf   12    26           158.60      97.86   
+12    None  UWL_5_TWP_B_E2_W_406_A.pdf   13     8            53.60      33.07   
+13    None  UWL_5_TWP_B_E2_W_406_A.pdf   14     8            61.60      38.01   
+14    None  UWL_5_TWP_B_E2_W_406_A.pdf   15    32           192.00     118.46   
+15    None  UWL_5_TWP_B_E2_W_406_A.pdf   16    28           112.00      69.10   
+16    None  UWL_5_TWP_B_E2_W_406_A.pdf   17    14           130.20      80.33   
+17    None  UWL_5_TWP_B_E2_W_406_A.pdf   18    26           197.60     121.92   
+18    None  UWL_5_TWP_B_E2_W_406_A.pdf   19    14           112.00      69.10   
+19    None  UWL_5_TWP_B_E2_W_406_A.pdf   20    26           275.60     170.05   
+20    None  UWL_5_TWP_B_E2_W_406_A.pdf   21     6            57.60      35.54   
+21    None  UWL_5_TWP_B_E2_W_406_A.pdf   22     6            51.60      31.84   
+22    None  UWL_5_TWP_B_E2_W_406_A.pdf   23     6            51.00      31.47   
+23    None  UWL_5_TWP_B_E2_W_406_A.pdf   24     6            57.00      35.17   
+24    None  UWL_5_TWP_B_E2_W_406_A.pdf   25     6            49.80      30.73   
+25    None  UWL_5_TWP_B_E2_W_406_A.pdf   26     8            58.40      36.03   
+26    None  UWL_5_TWP_B_E2_W_406_A.pdf   27    12           116.40      71.82   
+27    None  UWL_5_TWP_B_E2_W_406_A.pdf   28    12           104.40      64.41   
+28    None  UWL_5_TWP_B_E2_W_406_A.pdf   30   292           540.20     333.30   
+29    None  UWL_5_TWP_B_E2_W_406_A.pdf   31  1289          3415.85    2107.58   
+30    None  UWL_5_TWP_B_E2_W_406_A.pdf   32  1289          2397.54    1479.28   
+31    None  UWL_5_TWP_B_E2_W_406_A.pdf   33    80           260.00     160.42   
+32    None  UWL_5_TWP_B_E2_W_406_A.pdf   34   129           161.25      99.49   
+33    None  UWL_5_TWP_B_E2_W_406_A.pdf   35     6            18.30      11.29   
+34    None  UWL_5_TWP_B_E2_W_406_A.pdf   36     9            24.75      15.27   
+35    None  UWL_5_TWP_B_E2_W_406_A.pdf   37    92           110.40      68.12   
+36    None  UWL_5_TWP_B_E2_W_406_A.pdf   40    48            79.20      48.87   
+37    None  UWL_5_TWP_B_E2_W_406_A.pdf   41    12            54.60      86.27   
+38    None  UWL_5_TWP_B_E2_W_406_A.pdf   42    48           576.00     910.08   
+39    None  UWL_5_TWP_B_E2_W_406_A.pdf   43     4            36.00      56.88   
+40    None  UWL_5_TWP_B_E2_W_406_A.pdf   44     6            36.00      56.88   
+41    None  UWL_5_TWP_B_E2_W_406_A.pdf   45     2            13.00      20.54   
+42    None  UWL_5_TWP_B_E2_W_406_A.pdf   46     8            36.00      56.88   
+43    None  UWL_5_TWP_B_E2_W_406_A.pdf   47     4            29.20      46.14   
+44    None  UWL_5_TWP_B_E2_W_406_A.pdf   48     4            46.00      72.68   
+45    None  UWL_5_TWP_B_E2_W_406_A.pdf   49    32           120.00     189.60   
+46    None  UWL_5_TWP_B_E2_W_406_A.pdf   50     2            10.00      15.80   
+47    None  UWL_5_TWP_B_E2_W_406_A.pdf   51    16           192.00     170.50   
+48    None  UWL_5_TWP_B_E2_W_406_A.pdf   53     4             6.40       5.68   
+49    None  UWL_5_TWP_B_E2_W_406_A.pdf   54     2             7.60       6.75   
+50    None  UWL_5_TWP_B_E2_W_406_A.pdf   55     4            10.00      15.80   
+
+   Einzel Lange [m] Diameter [mm]  
+0              0.39             8  
+1              0.29             8  
+2              4.50            10  
+3              3.55            10  
+4              1.50            10  
+5              2.30            10  
+6              3.25            10  
+7             12.00            10  
+8              3.00            10  
+9             11.00            10  
+10             7.40            10  
+11             6.10            10  
+12             6.70            10  
+13             7.70            10  
+14             6.00            10  
+15             4.00            10  
+16             9.30            10  
+17             7.60            10  
+18             8.00            10  
+19            10.60            10  
+20             9.60            10  
+21             8.60            10  
+22             8.50            10  
+23             9.50            10  
+24             8.30            10  
+25             7.30            10  
+26             9.70            10  
+27             8.70            10  
+28             1.85            10  
+29             2.65            10  
+30             1.86            10  
+31             3.25            10  
+32             1.25            10  
+33             3.05            10  
+34             2.75            10  
+35             1.20            10  
+36             1.65            10  
+37             4.55            16  
+38            12.00            16  
+39             9.00            16  
+40             6.00            16  
+41             6.50            16  
+42             4.50            16  
+43             7.30            16  
+44            11.50            16  
+45             3.75            16  
+46             5.00            16  
+47            12.00            12  
+48             1.60            12  
+49             3.80            12  
+50             2.50            16  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 88.24%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_101_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_101_A.pdf    1   37           303.77     367.56   
+1     None  UWL_5_TWP_B_GR_B_101_A.pdf    2   34           287.64     348.04   
+2     None  UWL_5_TWP_B_GR_B_101_A.pdf    5   40           436.40     528.04   
+3     None  UWL_5_TWP_B_GR_B_101_A.pdf    6   45           475.65     575.54   
+4     None  UWL_5_TWP_B_GR_B_101_A.pdf    9   31           145.70     129.38   
+5     None  UWL_5_TWP_B_GR_B_101_A.pdf   10   26           132.60     117.75   
+6     None  UWL_5_TWP_B_GR_B_101_A.pdf   11   34           198.90     176.62   
+7     None  UWL_5_TWP_B_GR_B_101_A.pdf   12   40           216.00     191.81   
+8     None  UWL_5_TWP_B_GR_B_101_A.pdf   13   21            79.80      70.86   
+9     None  UWL_5_TWP_B_GR_B_101_A.pdf   14   21            88.20      78.32   
+10    None  UWL_5_TWP_B_GR_B_101_A.pdf   15   33           148.50     131.87   
+11    None  UWL_5_TWP_B_GR_B_101_A.pdf   16   33           161.70     143.59   
+12    None  UWL_5_TWP_B_GR_B_101_A.pdf   17  112           246.40     218.80   
+13    None  UWL_5_TWP_B_GR_B_101_A.pdf   18   20            56.00      88.48   
+14    None  UWL_5_TWP_B_GR_B_101_A.pdf   19   58           121.80      75.15   
+15    None  UWL_5_TWP_B_GR_B_101_A.pdf   20  114           319.20     283.45   
+16    None  UWL_5_TWP_B_GR_B_101_A.pdf   21   28            95.20     150.42   
+17    None  UWL_5_TWP_B_GR_B_101_A.pdf   22   76           205.20     126.61   
+18    None  UWL_5_TWP_B_GR_B_101_A.pdf   23   27            40.50      24.99   
+19    None  UWL_5_TWP_B_GR_B_101_A.pdf   24   12            46.08      55.76   
+20    None  UWL_5_TWP_B_GR_B_101_A.pdf   25   17            64.26      77.75   
+21    None  UWL_5_TWP_B_GR_B_101_A.pdf   26   17            60.18      72.82   
+22    None  UWL_5_TWP_B_GR_B_101_A.pdf   27   17            62.56      75.70   
+23    None  UWL_5_TWP_B_GR_B_101_A.pdf   28   16            80.64      97.57   
+24    None  UWL_5_TWP_B_GR_B_101_A.pdf   29   23           114.54     138.59   
+25    None  UWL_5_TWP_B_GR_B_101_A.pdf   30   16            75.84      91.77   
+26    None  UWL_5_TWP_B_GR_B_101_A.pdf   31   23           112.24     135.81   
+27    None  UWL_5_TWP_B_GR_B_101_A.pdf   32    4            10.00      15.80   
+28    None  UWL_5_TWP_B_GR_B_101_A.pdf   33   36            46.44      73.38   
+29    None  UWL_5_TWP_B_GR_B_101_A.pdf   34    5            16.00      25.28   
+
+   Einzel Lange [m] Diameter [mm]  
+0              8.21            14  
+1              8.46            14  
+2             10.91            14  
+3             10.57            14  
+4              4.70            12  
+5              5.10            12  
+6              5.85            12  
+7              5.40            12  
+8              3.80            12  
+9              4.20            12  
+10             4.50            12  
+11             4.90            12  
+12             2.20            12  
+13             2.80            16  
+14             2.10            10  
+15             2.80            12  
+16             3.40            16  
+17             2.70            10  
+18             1.50            10  
+19             3.84            14  
+20             3.78            14  
+21             3.54            14  
+22             3.68            14  
+23             5.04            14  
+24             4.98            14  
+25             4.74            14  
+26             4.88            14  
+27             2.50            16  
+28             1.29            16  
+29             3.20       1675170  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 86.67%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_102_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_102_A.pdf    1   37           300.07     363.08   
+1     None  UWL_5_TWP_B_GR_B_102_A.pdf    2   33           279.18     337.81   
+2     None  UWL_5_TWP_B_GR_B_102_A.pdf    5   31           142.60     126.63   
+3     None  UWL_5_TWP_B_GR_B_102_A.pdf    6   26           132.60     117.75   
+4     None  UWL_5_TWP_B_GR_B_102_A.pdf    7   20            76.00      67.49   
+5     None  UWL_5_TWP_B_GR_B_102_A.pdf    8   20            84.00      74.59   
+6     None  UWL_5_TWP_B_GR_B_102_A.pdf    9  156           319.80     197.32   
+7     None  UWL_5_TWP_B_GR_B_102_A.pdf   10   20            56.00      88.48   
+8     None  UWL_5_TWP_B_GR_B_102_A.pdf   11   13            19.50      12.03   
+9     None  UWL_5_TWP_B_GR_B_102_A.pdf   12   29           102.66     124.22   
+10    None  UWL_5_TWP_B_GR_B_102_A.pdf   13   34           118.32     143.17   
+11    None  UWL_5_TWP_B_GR_B_102_A.pdf   14    4            10.00      15.80   
+12    None  UWL_5_TWP_B_GR_B_102_A.pdf   15   16            20.64      32.61   
+
+   Einzel Lange [m] Diameter [mm]  
+0              8.11            14  
+1              8.46            14  
+2              4.60            12  
+3              5.10            12  
+4              3.80            12  
+5              4.20            12  
+6              2.05            10  
+7              2.80            16  
+8              1.50            10  
+9              3.54            14  
+10             3.48            14  
+11             2.50            16  
+12             1.29       1675170  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_103_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_103_A.pdf    1  273          1638.00    1454.54   
+1     None  UWL_5_TWP_B_GR_B_103_A.pdf    2  235          2820.00    3412.20   
+2     None  UWL_5_TWP_B_GR_B_103_A.pdf    3  244          2684.00    3247.64   
+3     None  UWL_5_TWP_B_GR_B_103_A.pdf    4  378          3780.00    3356.64   
+4     None  UWL_5_TWP_B_GR_B_103_A.pdf    5  886         10632.00    9441.22   
+5     None  UWL_5_TWP_B_GR_B_103_A.pdf    6  119          1071.00     951.05   
+6     None  UWL_5_TWP_B_GR_B_103_A.pdf    7  422          3376.00    2997.89   
+7     None  UWL_5_TWP_B_GR_B_103_A.pdf    8    8            62.40      55.41   
+8     None  UWL_5_TWP_B_GR_B_103_A.pdf    9   44           299.20     265.69   
+9     None  UWL_5_TWP_B_GR_B_103_A.pdf   10   25           147.50     178.48   
+10    None  UWL_5_TWP_B_GR_B_103_A.pdf   11   44           255.20     226.62   
+11    None  UWL_5_TWP_B_GR_B_103_A.pdf   12   44           431.20     521.75   
+12    None  UWL_5_TWP_B_GR_B_103_A.pdf   13   46           496.80     601.13   
+13    None  UWL_5_TWP_B_GR_B_103_A.pdf   14   61           305.00     270.84   
+14    None  UWL_5_TWP_B_GR_B_103_A.pdf   15   19           127.30     154.03   
+15    None  UWL_5_TWP_B_GR_B_103_A.pdf   16    5            43.00      38.18   
+16    None  UWL_5_TWP_B_GR_B_103_A.pdf   17    5            48.00      42.62   
+17    None  UWL_5_TWP_B_GR_B_103_A.pdf   18   18           138.60     167.71   
+18    None  UWL_5_TWP_B_GR_B_103_A.pdf   19    8            70.40      62.52   
+19    None  UWL_5_TWP_B_GR_B_103_A.pdf   20   25           172.50     208.73   
+20    None  UWL_5_TWP_B_GR_B_103_A.pdf   21  147          1029.00    1245.09   
+21    None  UWL_5_TWP_B_GR_B_103_A.pdf   22   42           441.00     533.61   
+22    None  UWL_5_TWP_B_GR_B_103_A.pdf   23  144          1569.60    1393.80   
+23    None  UWL_5_TWP_B_GR_B_103_A.pdf   24    8            84.00      74.59   
+24    None  UWL_5_TWP_B_GR_B_103_A.pdf   25  253          2327.60    2066.91   
+25    None  UWL_5_TWP_B_GR_B_103_A.pdf   26  126           516.60     458.74   
+26    None  UWL_5_TWP_B_GR_B_103_A.pdf   27  127           647.70     575.16   
+27    None  UWL_5_TWP_B_GR_B_103_A.pdf   28  130           598.00     531.02   
+28    None  UWL_5_TWP_B_GR_B_103_A.pdf   29  130           468.00     415.58   
+29    None  UWL_5_TWP_B_GR_B_103_A.pdf   30    6            48.00      58.08   
+30    None  UWL_5_TWP_B_GR_B_103_A.pdf   31    7            63.00      76.23   
+31    None  UWL_5_TWP_B_GR_B_103_A.pdf   32  353          1941.50    1724.05   
+32    None  UWL_5_TWP_B_GR_B_103_A.pdf   33    4            41.20      36.59   
+33    None  UWL_5_TWP_B_GR_B_103_A.pdf   34    3            33.90      30.10   
+34    None  UWL_5_TWP_B_GR_B_103_A.pdf   35    5            50.00      60.50   
+
+   Einzel Lange [m] Diameter [mm]  
+0              6.00            12  
+1             12.00            14  
+2             11.00            14  
+3             10.00            12  
+4             12.00            12  
+5              9.00            12  
+6              8.00            12  
+7              7.80            12  
+8              6.80            12  
+9              5.90            14  
+10             5.80            12  
+11             9.80            14  
+12            10.80            14  
+13             5.00            12  
+14             6.70            14  
+15             8.60            12  
+16             9.60            12  
+17             7.70            14  
+18             8.80            12  
+19             6.90            14  
+20             7.00            14  
+21            10.50            14  
+22            10.90            12  
+23            10.50            12  
+24             9.20            12  
+25             4.10            12  
+26             5.10            12  
+27             4.60            12  
+28             3.60            12  
+29             8.00            14  
+30             9.00            14  
+31             5.50            12  
+32            10.30            12  
+33            11.30            12  
+34            10.00         14600  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 97.37%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_104_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_104_A.pdf  101   264           580.80     515.75   
+1     None  UWL_5_TWP_B_GR_B_104_A.pdf  102   193           492.15     595.50   
+2     None  UWL_5_TWP_B_GR_B_104_A.pdf  103   345           759.00     918.39   
+3     None  UWL_5_TWP_B_GR_B_104_A.pdf  104  1054          2371.50    2105.89   
+4     None  UWL_5_TWP_B_GR_B_104_A.pdf  105    44           114.40     138.42   
+5     None  UWL_5_TWP_B_GR_B_104_A.pdf  106   107           230.05     278.36   
+6     None  UWL_5_TWP_B_GR_B_104_A.pdf  107    54           540.00     479.52   
+7     None  UWL_5_TWP_B_GR_B_104_A.pdf  108    87           783.00     695.30   
+8     None  UWL_5_TWP_B_GR_B_104_A.pdf  109   100           550.00    1358.50   
+9     None  UWL_5_TWP_B_GR_B_104_A.pdf  110   200          1880.00    4643.60   
+10    None  UWL_5_TWP_B_GR_B_104_A.pdf  111   490          3381.00    5341.98   
+11    None  UWL_5_TWP_B_GR_B_104_A.pdf  112    62           310.00     765.70   
+12    None  UWL_5_TWP_B_GR_B_104_A.pdf  113    70           378.00     933.66   
+13    None  UWL_5_TWP_B_GR_B_104_A.pdf  114   294          2087.40    5155.88   
+14    None  UWL_5_TWP_B_GR_B_104_A.pdf  115   176          1161.60    1405.54   
+15    None  UWL_5_TWP_B_GR_B_104_A.pdf  116    10            29.00      71.63   
+16    None  UWL_5_TWP_B_GR_B_104_A.pdf  117    20            96.00     151.68   
+17    None  UWL_5_TWP_B_GR_B_104_A.pdf  118    24            72.00     113.76   
+18    None  UWL_5_TWP_B_GR_B_104_A.pdf  119  2724          3541.20    2184.92   
+19    None  UWL_5_TWP_B_GR_B_104_A.pdf  120    32            67.20     106.18   
+20    None  UWL_5_TWP_B_GR_B_104_A.pdf  121   710          1065.00     945.72   
+21    None  UWL_5_TWP_B_GR_B_104_A.pdf  122   200           400.00     632.00   
+22    None  UWL_5_TWP_B_GR_B_104_A.pdf  123    84           117.60      72.56   
+23    None  UWL_5_TWP_B_GR_B_104_A.pdf  124    12            25.20      97.02   
+24    None  UWL_5_TWP_B_GR_B_104_A.pdf  125     6            10.56       6.52   
+25    None  UWL_5_TWP_B_GR_B_104_A.pdf  126    48            91.20     351.12   
+26    None  UWL_5_TWP_B_GR_B_104_A.pdf  127    33            54.78      33.80   
+27    None  UWL_5_TWP_B_GR_B_104_A.pdf  128     3             3.00       1.85   
+28    None  UWL_5_TWP_B_GR_B_104_A.pdf  129    28            50.40      79.63   
+29    None  UWL_5_TWP_B_GR_B_104_A.pdf  130    12            18.96      11.70   
+30    None  UWL_5_TWP_B_GR_B_104_A.pdf  131     6             8.76       5.40   
+31    None  UWL_5_TWP_B_GR_B_104_A.pdf  132     8            15.20      37.54   
+32    None  UWL_5_TWP_B_GR_B_104_A.pdf  133     3             5.28       3.26   
+33    None  UWL_5_TWP_B_GR_B_104_A.pdf  134     8            12.80      11.37   
+34    None  UWL_5_TWP_B_GR_B_104_A.pdf  136     8            20.00      17.76   
+35    None  UWL_5_TWP_B_GR_B_104_A.pdf  137     9            18.00      15.98   
+36    None  UWL_5_TWP_B_GR_B_104_A.pdf  138   882           846.72     751.89   
+
+   Einzel Lange [m] Diameter [mm]  
+0              2.20            12  
+1              2.55            14  
+2              2.20            14  
+3              2.25            12  
+4              2.60            14  
+5              2.15            14  
+6             10.00            12  
+7              9.00            12  
+8              5.50            20  
+9              9.40            20  
+10             6.90            16  
+11             5.00            20  
+12             5.40            20  
+13             7.10            20  
+14             6.60            14  
+15             2.90            20  
+16             4.80            16  
+17             3.00            16  
+18             1.30            10  
+19             2.10            16  
+20             1.50            12  
+21             2.00            16  
+22             1.40            10  
+23             2.10            25  
+24             1.76            10  
+25             1.90            25  
+26             1.66            10  
+27             1.00            10  
+28             1.80            16  
+29             1.58            10  
+30             1.46            10  
+31             1.90            20  
+32             1.76            10  
+33             1.60            12  
+34             2.50            12  
+35             2.00            12  
+36             0.96            12  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_105_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_105_A.pdf  201  621          7452.00    6617.38   
+1     None  UWL_5_TWP_B_GR_B_105_A.pdf  202   18           140.40     124.68   
+2     None  UWL_5_TWP_B_GR_B_105_A.pdf  203   17           115.60     102.65   
+3     None  UWL_5_TWP_B_GR_B_105_A.pdf  204  241          2651.00    2354.09   
+4     None  UWL_5_TWP_B_GR_B_105_A.pdf  205  326          3227.40    2865.93   
+5     None  UWL_5_TWP_B_GR_B_105_A.pdf  206  326          3455.60    3068.57   
+6     None  UWL_5_TWP_B_GR_B_105_A.pdf  207   27           245.70     218.18   
+7     None  UWL_5_TWP_B_GR_B_105_A.pdf  208   27           272.70     242.16   
+8     None  UWL_5_TWP_B_GR_B_105_A.pdf  209   15           105.75      93.91   
+9     None  UWL_5_TWP_B_GR_B_105_A.pdf  210  155           930.00     825.84   
+10    None  UWL_5_TWP_B_GR_B_105_A.pdf  211   83           896.40     796.00   
+11    None  UWL_5_TWP_B_GR_B_105_A.pdf  212   83           813.40     722.30   
+12    None  UWL_5_TWP_B_GR_B_105_A.pdf  213  749          6741.00    5986.01   
+13    None  UWL_5_TWP_B_GR_B_105_A.pdf  214    4            23.20      20.60   
+14    None  UWL_5_TWP_B_GR_B_105_A.pdf  215   75           817.50     725.94   
+15    None  UWL_5_TWP_B_GR_B_105_A.pdf  216  397          4168.50    3701.63   
+16    None  UWL_5_TWP_B_GR_B_105_A.pdf  217  368          4232.00    3758.02   
+17    None  UWL_5_TWP_B_GR_B_105_A.pdf  218    4            19.20      17.05   
+18    None  UWL_5_TWP_B_GR_B_105_A.pdf  219  449          3367.50    2077.75   
+19    None  UWL_5_TWP_B_GR_B_105_A.pdf  220   15           123.00     109.22   
+20    None  UWL_5_TWP_B_GR_B_105_A.pdf  221   15           108.00      95.90   
+21    None  UWL_5_TWP_B_GR_B_105_A.pdf  222   12            95.40      84.72   
+22    None  UWL_5_TWP_B_GR_B_105_A.pdf  223    5            42.75      37.96   
+23    None  UWL_5_TWP_B_GR_B_105_A.pdf  224    5            47.75      42.40   
+24    None  UWL_5_TWP_B_GR_B_105_A.pdf  225   83           489.70     592.54   
+25    None  UWL_5_TWP_B_GR_B_105_A.pdf  226   80           568.00     687.28   
+26    None  UWL_5_TWP_B_GR_B_105_A.pdf  227   92          1058.00    1280.18   
+27    None  UWL_5_TWP_B_GR_B_105_A.pdf  228   90           927.00    1121.67   
+28    None  UWL_5_TWP_B_GR_B_105_A.pdf  229   28           294.00     355.74   
+29    None  UWL_5_TWP_B_GR_B_105_A.pdf  230    4            15.00      18.15   
+30    None  UWL_5_TWP_B_GR_B_105_A.pdf  231    4            10.20      12.34   
+31    None  UWL_5_TWP_B_GR_B_105_A.pdf  232    2            21.80      26.38   
+32    None  UWL_5_TWP_B_GR_B_105_A.pdf  233    5            22.75      27.53   
+33    None  UWL_5_TWP_B_GR_B_105_A.pdf  234    6            34.50      41.75   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              7.80            12  
+2              6.80            12  
+3             11.00            12  
+4              9.90            12  
+5             10.60            12  
+6              9.10            12  
+7             10.10            12  
+8              7.05            12  
+9              6.00            12  
+10            10.80            12  
+11             9.80            12  
+12             9.00            12  
+13             5.80            12  
+14            10.90            12  
+15            10.50            12  
+16            11.50            12  
+17             4.80            12  
+18             7.50            10  
+19             8.20            12  
+20             7.20            12  
+21             7.95            12  
+22             8.55            12  
+23             9.55            12  
+24             5.90            14  
+25             7.10            14  
+26            11.50            14  
+27            10.30            14  
+28            10.50            14  
+29             3.75            14  
+30             2.55            14  
+31            10.90            14  
+32             4.55            14  
+33             5.75        141200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_106_A.pdf:
+  plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0    None  UWL_5_TWP_B_GR_B_106_A.pdf  301   189          2268.00    3583.44   
+1    None  UWL_5_TWP_B_GR_B_106_A.pdf  302  3193          6034.77    9534.94   
+2    None  UWL_5_TWP_B_GR_B_106_A.pdf  303    13           141.70     223.89   
+3    None  UWL_5_TWP_B_GR_B_106_A.pdf  304    11           116.05     183.36   
+4    None  UWL_5_TWP_B_GR_B_106_A.pdf  305    54           221.40     349.81   
+5    None  UWL_5_TWP_B_GR_B_106_A.pdf  306   636           756.84    1195.81   
+6    None  UWL_5_TWP_B_GR_B_106_A.pdf  307    24           120.00     189.60   
+7    None  UWL_5_TWP_B_GR_B_106_A.pdf  308     1             1.50       2.37   
+
+  Einzel Lange [m] Diameter [mm]  
+0            12.00            16  
+1             1.89            16  
+2            10.90            16  
+3            10.55            16  
+4             4.10            16  
+5             1.19            16  
+6             5.00            16  
+7             1.50  161200304735  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_107_A.pdf:
+   plan_id                   file_name Pos. Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_107_A.pdf    1  605          7260.00    6446.88   
+1     None  UWL_5_TWP_B_GR_B_107_A.pdf    2  211          1983.40    1761.26   
+2     None  UWL_5_TWP_B_GR_B_107_A.pdf    3  211          2194.40    1948.63   
+3     None  UWL_5_TWP_B_GR_B_107_A.pdf    4   26            88.40      78.50   
+4     None  UWL_5_TWP_B_GR_B_107_A.pdf    5   25            60.00      53.28   
+5     None  UWL_5_TWP_B_GR_B_107_A.pdf    6   25           167.50     148.74   
+6     None  UWL_5_TWP_B_GR_B_107_A.pdf    7   26           148.20     131.60   
+7     None  UWL_5_TWP_B_GR_B_107_A.pdf    8  178          1780.00    1580.64   
+8     None  UWL_5_TWP_B_GR_B_107_A.pdf    9  234          2152.80    1911.69   
+9     None  UWL_5_TWP_B_GR_B_107_A.pdf   10  117           479.70     425.97   
+10    None  UWL_5_TWP_B_GR_B_107_A.pdf   11  117           596.70     529.87   
+11    None  UWL_5_TWP_B_GR_B_107_A.pdf   12   89           409.40     363.55   
+12    None  UWL_5_TWP_B_GR_B_107_A.pdf   13   89           320.40     284.52   
+13    None  UWL_5_TWP_B_GR_B_107_A.pdf   14   28           179.20     159.13   
+14    None  UWL_5_TWP_B_GR_B_107_A.pdf   15   28           151.20     134.27   
+15    None  UWL_5_TWP_B_GR_B_107_A.pdf   16   56           294.00     261.07   
+
+   Einzel Lange [m] Diameter [mm]  
+0             12.00            12  
+1              9.40            12  
+2             10.40            12  
+3              3.40            12  
+4              2.40            12  
+5              6.70            12  
+6              5.70            12  
+7             10.00            12  
+8              9.20            12  
+9              4.10            12  
+10             5.10            12  
+11             4.60            12  
+12             3.60            12  
+13             6.40            12  
+14             5.40            12  
+15             5.25        121200  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 95.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_108_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_108_A.pdf  101   446           981.20     871.31   
+1     None  UWL_5_TWP_B_GR_B_108_A.pdf  102   496          1116.00     991.01   
+2     None  UWL_5_TWP_B_GR_B_108_A.pdf  103    98           676.20    1068.40   
+3     None  UWL_5_TWP_B_GR_B_108_A.pdf  104   196          1391.60    3437.25   
+4     None  UWL_5_TWP_B_GR_B_108_A.pdf  105   232          1531.20    1852.75   
+5     None  UWL_5_TWP_B_GR_B_108_A.pdf  106    98           490.00     592.90   
+6     None  UWL_5_TWP_B_GR_B_108_A.pdf  107   153          1224.00    1086.91   
+7     None  UWL_5_TWP_B_GR_B_108_A.pdf  108    22           154.00     136.75   
+8     None  UWL_5_TWP_B_GR_B_108_A.pdf  109  2002          2602.60    1605.80   
+9     None  UWL_5_TWP_B_GR_B_108_A.pdf  110   142           284.00     448.72   
+10    None  UWL_5_TWP_B_GR_B_108_A.pdf  111    12            22.80      87.78   
+11    None  UWL_5_TWP_B_GR_B_108_A.pdf  112     9            14.94       9.22   
+12    None  UWL_5_TWP_B_GR_B_108_A.pdf  113     6             6.00       3.70   
+13    None  UWL_5_TWP_B_GR_B_108_A.pdf  114    12            17.52      10.81   
+14    None  UWL_5_TWP_B_GR_B_108_A.pdf  115    16            30.40      75.09   
+15    None  UWL_5_TWP_B_GR_B_108_A.pdf  116     8            14.40      17.42   
+16    None  UWL_5_TWP_B_GR_B_108_A.pdf  117     8            12.80      11.37   
+17    None  UWL_5_TWP_B_GR_B_108_A.pdf  119     2             5.40       8.53   
+18    None  UWL_5_TWP_B_GR_B_108_A.pdf  120   438           354.78     315.04   
+
+   Einzel Lange [m] Diameter [mm]  
+0              2.20            12  
+1              2.25            12  
+2              6.90            16  
+3              7.10            20  
+4              6.60            14  
+5              5.00            14  
+6              8.00            12  
+7              7.00            12  
+8              1.30            10  
+9              2.00            16  
+10             1.90            25  
+11             1.66            10  
+12             1.00            10  
+13             1.46            10  
+14             1.90            20  
+15             1.80            14  
+16             1.60            12  
+17             2.70            16  
+18             0.81      12735196  
+Data inserted successfully into table Stabliste - Biegeformen table.
+Success Percentage: 100.00%
+
+DataFrame for C:/Users/ryske/Documents/Data/M-214HB069/Bewehrungsplan\UWL_5_TWP_B_GR_B_109_A.pdf:
+   plan_id                   file_name Pos.  Stck Gesamt Lange [m] Masse [kg]  \
+0     None  UWL_5_TWP_B_GR_B_109_A.pdf  201   356          3560.00    3161.28   
+1     None  UWL_5_TWP_B_GR_B_109_A.pdf  202   356          3168.40    2813.54   
+2     None  UWL_5_TWP_B_GR_B_109_A.pdf  203   190          1368.00    1214.78   
+3     None  UWL_5_TWP_B_GR_B_109_A.pdf  204   190          1558.00    1383.50   
+4     None  UWL_5_TWP_B_GR_B_109_A.pdf  205    12            69.60      61.80   
+5     None  UWL_5_TWP_B_GR_B_109_A.pdf  206    12            57.60      51.15   
+6     None  UWL_5_TWP_B_GR_B_109_A.pdf  207   257          2698.50    2396.27   
+7     None  UWL_5_TWP_B_GR_B_109_A.pdf  208    12           114.00     101.23   
+8     None  UWL_5_TWP_B_GR_B_109_A.pdf  209   504          4536.00    4027.97   
+9     None  UWL_5_TWP_B_GR_B_109_A.pdf  210    29           152.25     135.20   
+10    None  UWL_5_TWP_B_GR_B_109_A.pdf  211   244          2806.00    2491.73   
+11    None  UWL_5_TWP_B_GR_B_109_A.pdf  212    15            57.00      50.62   
+12    None  UWL_5_TWP_B_GR_B_109_A.pdf  213    14           155.40     138.00   
+13    None  UWL_5_TWP_B_GR_B_109_A.pdf  214   378          2835.00    1749.20   
+14    None  UWL_5_TWP_B_GR_B_109_A.pdf  215    97          1164.00    1839.12   
+15    None  UWL_5_TWP_B_GR_B_109_A.pdf  216  1806          3413.34    5393.08   
+16    None  UWL_5_TWP_B_GR_B_109_A.pdf  217    29           118.90     187.86   
+17    None  UWL_5_TWP_B_GR_B_109_A.pdf  218     5            38.00      60.04   
+18    None  UWL_5_TWP_B_GR_B_109_A.pdf  219     5            26.50      41.87   
+
+   Einzel Lange [m] Diameter [mm]  
+0             10.00            12  
+1              8.90            12  
+2              7.20            12  
+3              8.20            12  
+4              5.80            12  
+5              4.80            12  
+6             10.50            12  
+7              9.50            12  
+8              9.00            12  
+9              5.25            12  
+10            11.50            12  
+11             3.80            12  
+12            11.10            12  
+13             7.50            10  
+14            12.00            16  
+15             1.89            16  
+16             4.10            16  
+17             7.60            16  
+18             5.30        161000  
+Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:41:58,533 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:00,710 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:03,869 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:05,312 - INFO - No data found in UWL_5_TWP_B_E0_D_210_A.pdf, skipping.
+2024-08-27 15:42:06,359 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:08,037 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:09,670 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:10,698 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:11,934 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:13,596 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:15,713 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:18,341 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:19,487 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:22,112 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:23,373 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:24,897 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:26,232 - INFO - No data found in UWL_5_TWP_B_E1_D_310_A.pdf, skipping.
+2024-08-27 15:42:27,191 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:28,591 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:30,325 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:31,311 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:34,341 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:36,098 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:37,292 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:39,114 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:41,014 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:43,515 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:44,798 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:47,389 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:48,637 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:49,980 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:52,081 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:53,334 - INFO - No data found in UWL_5_TWP_B_E2_D_410_A.pdf, skipping.
+2024-08-27 15:42:54,236 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:55,744 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:57,364 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:58,466 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:42:59,447 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:01,331 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:03,045 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:05,375 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:06,512 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:08,835 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:11,387 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:12,621 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:13,743 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:15,751 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:17,329 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:21,551 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:22,285 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:24,302 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 15:43:25,448 - INFO - Data inserted successfully into table Stabliste - Biegeformen table.
+2024-08-27 16:38:39,627 - INFO - No data found in UWL_5_TWP_B_E0_D_207_A.pdf, skipping.
+2024-08-27 16:38:41,726 - INFO - No data found in UWL_5_TWP_B_E0_D_208_A.pdf, skipping.
+2024-08-27 16:38:44,784 - INFO - No data found in UWL_5_TWP_B_E0_D_209_A.pdf, skipping.
+2024-08-27 16:38:46,215 - INFO - No data found in UWL_5_TWP_B_E0_D_210_A.pdf, skipping.
+2024-08-27 16:38:47,116 - INFO - No data found in UWL_5_TWP_B_E0_D_211_A.pdf, skipping.
+2024-08-27 16:38:48,712 - INFO - No data found in UWL_5_TWP_B_E0_D_212_A.pdf, skipping.
+2024-08-27 16:38:50,219 - INFO - No data found in UWL_5_TWP_B_E0_D_213_A.pdf, skipping.
+2024-08-27 16:38:51,153 - INFO - No data found in UWL_5_TWP_B_E0_D_214_A.pdf, skipping.
+2024-08-27 16:38:52,271 - INFO - No data found in UWL_5_TWP_B_E0_S_201_A.pdf, skipping.
+2024-08-27 16:38:54,512 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:38:56,558 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:38:59,109 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:00,297 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:02,922 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:04,094 - INFO - No data found in UWL_5_TWP_B_E1_D_307_A.pdf, skipping.
+2024-08-27 16:39:05,514 - INFO - No data found in UWL_5_TWP_B_E1_D_308_A.pdf, skipping.
+2024-08-27 16:39:06,854 - INFO - No data found in UWL_5_TWP_B_E1_D_310_A.pdf, skipping.
+2024-08-27 16:39:07,722 - INFO - No data found in UWL_5_TWP_B_E1_D_311_A.pdf, skipping.
+2024-08-27 16:39:09,035 - INFO - No data found in UWL_5_TWP_B_E1_D_312_A.pdf, skipping.
+2024-08-27 16:39:10,697 - INFO - No data found in UWL_5_TWP_B_E1_D_313_A.pdf, skipping.
+2024-08-27 16:39:11,574 - INFO - No data found in UWL_5_TWP_B_E1_D_314_A.pdf, skipping.
+2024-08-27 16:39:14,574 - INFO - No data found in UWL_5_TWP_B_E1_D_315_A.pdf, skipping.
+2024-08-27 16:39:16,162 - INFO - No data found in UWL_5_TWP_B_E1_D_316_A.pdf, skipping.
+2024-08-27 16:39:17,263 - INFO - No data found in UWL_5_TWP_B_E1_S_301_A.pdf, skipping.
+2024-08-27 16:39:19,063 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:20,993 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:23,372 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:24,570 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:27,069 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:28,090 - INFO - No data found in UWL_5_TWP_B_E2_D_407_A.pdf, skipping.
+2024-08-27 16:39:29,316 - INFO - No data found in UWL_5_TWP_B_E2_D_408_A.pdf, skipping.
+2024-08-27 16:39:31,234 - INFO - No data found in UWL_5_TWP_B_E2_D_409_A.pdf, skipping.
+2024-08-27 16:39:32,437 - INFO - No data found in UWL_5_TWP_B_E2_D_410_A.pdf, skipping.
+2024-08-27 16:39:33,211 - INFO - No data found in UWL_5_TWP_B_E2_D_411_A.pdf, skipping.
+2024-08-27 16:39:34,551 - INFO - No data found in UWL_5_TWP_B_E2_D_412_A.pdf, skipping.
+2024-08-27 16:39:36,013 - INFO - No data found in UWL_5_TWP_B_E2_D_413_A.pdf, skipping.
+2024-08-27 16:39:37,006 - INFO - No data found in UWL_5_TWP_B_E2_D_414_A.pdf, skipping.
+2024-08-27 16:39:37,871 - INFO - No data found in UWL_5_TWP_B_E2_S_401_A.pdf, skipping.
+2024-08-27 16:39:39,696 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:41,330 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:43,637 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:44,727 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:46,924 - INFO - Data inserted successfully into table Wandbewehrungstabelle.
+2024-08-27 16:39:49,323 - INFO - No data found in UWL_5_TWP_B_GR_B_101_A.pdf, skipping.
+2024-08-27 16:39:50,353 - INFO - No data found in UWL_5_TWP_B_GR_B_102_A.pdf, skipping.
+2024-08-27 16:39:51,344 - INFO - No data found in UWL_5_TWP_B_GR_B_103_A.pdf, skipping.
+2024-08-27 16:39:53,103 - INFO - No data found in UWL_5_TWP_B_GR_B_104_A.pdf, skipping.
+2024-08-27 16:39:54,526 - INFO - No data found in UWL_5_TWP_B_GR_B_105_A.pdf, skipping.
+2024-08-27 16:39:58,469 - INFO - No data found in UWL_5_TWP_B_GR_B_106_A.pdf, skipping.
+2024-08-27 16:39:59,101 - INFO - No data found in UWL_5_TWP_B_GR_B_107_A.pdf, skipping.
+2024-08-27 16:40:00,996 - INFO - No data found in UWL_5_TWP_B_GR_B_108_A.pdf, skipping.
+2024-08-27 16:40:02,059 - INFO - No data found in UWL_5_TWP_B_GR_B_109_A.pdf, skipping.
+2024-08-27 17:04:11,457 - INFO - Data inserted successfully into table Bewehrung_detailed.
+2024-08-27 17:04:11,605 - INFO - Data inserted successfully into table Bewehrung_detailed.
+2024-08-28 14:51:45,555 - INFO - No data found in LP4_Abgabe_Teil1_Kap6_Stuetzen.pdf, skipping.
+2024-08-28 15:51:42,027 - INFO - Data inserted successfully into table Stutzentabelle_2.
+2024-08-28 15:52:25,004 - INFO - Data inserted successfully into table Stutzentypentabelle_2.
