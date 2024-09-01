@@ -1,6 +1,8 @@
 # PDF Data Extraction and Database Insertion Tool
 
-This Python script is designed to automate the extraction of data from PDF files and insert the parsed data into a database. The script supports multiple scraping modules, each tailored to extract specific information from different types of PDF documents. The extracted data is then inserted into a database using SQLAlchemy.
+This Python script automates the extraction of data from PDF files and inserts the parsed data into a database. The script supports multiple scraping modules, each designed to extract specific information from different types of PDF documents. The extracted data is then inserted into a database using SQLAlchemy.
+
+This code is part of a larger project that uses physics-informed neural networks to optimize the structural design elements of buildings. Our goal is to train the model on data from buildings that have already been constructed to achieve reliable predictions. Therefore, the parsers extract diffrent data  from building elements designed by an engineering company.
 
 ## Features
 
@@ -85,10 +87,3 @@ This Python script is designed to automate the extraction of data from PDF files
 - **Database Connection Issues**:
   If there are errors during the database insertion, check the connection string and ensure that the database is accessible.
 
-## Contributing
-
-Feel free to fork the repository and make modifications. Pull requests are welcome!
-
-## License
-
-This project is licensed under the MIT License.
