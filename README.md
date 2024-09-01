@@ -87,3 +87,9 @@ This code is part of a larger project that uses physics-informed neural networks
 - **Database Connection Issues**:
   If there are errors during the database insertion, check the connection string and ensure that the database is accessible.
 
+## Database
+
+- **Database design**:
+  I've included my database design diagram in PDF format to the repository.
+ 
+
