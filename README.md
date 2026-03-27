@@ -1,6 +1,21 @@
 # PDF Data Extraction and Database Insertion Tool
 This Python script automates the extraction of data from PDF files and inserts the parsed data into a database. The script supports multiple scraping modules, each designed to extract specific information from different types of PDF documents. The extracted data is then inserted into a database using SQLAlchemy.
 This code is part of a larger project that uses physics-informed neural networks to optimize the structural design elements of buildings. Our goal is to train the model on data from buildings that have already been constructed to achieve reliable predictions. Therefore, the parsers extract diffrent data  from building elements designed by an engineering company.
+ 
+## Research Context
+ 
+This tool was developed as part of a larger academic research project at the **Institut für Statik und Dynamik, Technische Universität Braunschweig**, titled:
+ 
+> *"Physics- and data-driven modeling for integrated computation and design of structures with optimized material efficiency in early design stages"*
+ 
+The project's central goal is to help structural engineers make better design decisions earlier in the planning process, when information is still limited but the cost of mistakes is highest. It does this by combining real-world engineering data with physics-informed neural networks (PINNs) to build surrogate models that can predict structural behavior and suggest optimized component designs, without having to run expensive simulations from scratch each time.
+ 
+The overall pipeline, referred to as the **Hybrid Modeling Method (HyMoDe)**, works roughly as follows: data from already-constructed buildings is collected and used to train generalized structural surrogate models. These surrogates are then used iteratively to evaluate design configurations and converge on optimized components that meet engineering standards. The physics-informed aspect means the neural networks are not just learning from data alone, but are also constrained by the underlying differential equations that govern structural mechanics, making predictions more reliable even with limited training data.
+ 
+**This repository covers the first stage of that pipeline.** The work here focused on the ETL (Extract, Transform, Load) process: parsing raw engineering documents (structural calculation PDFs, reinforcement plans, position plans, and Excel-based project sheets) and loading the structured data into a relational database. This database then serves as the data source for the downstream machine learning models.
+ 
+[View the research poster here.](https://media.licdn.com/dms/image/v2/D4D22AQFjahZXEt7sXA/feedshare-shrink_1280/feedshare-shrink_1280/0/1720788798917?e=1776297600&v=beta&t=Z0zKeKgpymdvWNyKZpbkztSiKBoSnU-VQwy0zc5LoMc)
+ 
 ## Features
 - **Automated PDF Processing**: The script processes all PDF files in a specified directory.
 - **Modular Scraping**: Different scraping modules are used depending on the type of PDF.
@@ -69,4 +84,3 @@ The diagram below illustrates the full database schema used in this project. It 
 ![Database Design Diagram](./database_diagram.png)
  
 *Figure 1: Entity-relationship overview of the database schema, showing all tables and their foreign key relationships across the different PDF source types.*
- 
